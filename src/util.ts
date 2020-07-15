@@ -1,8 +1,8 @@
-export const backslashRegex = /\\/g;
-export const newlineRegex = /\r?\n/g;
-export const commaRegex = /,/g;
-export const semicolonRegex = /;/g;
-export const doublequoteRegex = /"/g;
+const backslashRegex = /\\/g;
+const newlineRegex = /\r?\n/g;
+const commaRegex = /,/g;
+const semicolonRegex = /;/g;
+const doublequoteRegex = /"/g;
 
 export const hasOwnKey = (
   obj: unknown,
@@ -26,20 +26,6 @@ export const encodeText = (text: string | null | undefined): string =>
         .replace(semicolonRegex, '\\;')
     : '';
 
-export const encodeTextList = (
-  text: string | string[],
-  delimiter = ','
-): string => {
-  if (!text || !text.length) {
-    return '';
-  }
-  if (typeof text === 'string') {
-    return encodeText(text);
-  }
-  // array
-  return text.map(encodeText).join(delimiter);
-};
-
 export const encodeQuotedText = (text: string): string =>
   text.replace(newlineRegex, '\\n').replace(doublequoteRegex, '\\"');
 
@@ -48,7 +34,7 @@ export const toType = (type: string | null | undefined): string =>
 
 export const toPref = (pref: unknown): string => (pref ? 'type=pref' : '');
 
-export const customLabel = (label: string | null | undefined): string =>
+export const formatCustomLabel = (label: string | null | undefined): string =>
   label ? `X-ABLabel:${encodeText(label)}` : '';
 
 export const formatAppleLabel = (label: string): string =>
@@ -56,22 +42,6 @@ export const formatAppleLabel = (label: string): string =>
 
 export const formatPref = (pref: number): string =>
   pref > 0 ? `;PREF=${pref}` : '';
-
-export const formatTypeValue = (type: string | string[]): string => {
-  if (!type || !type.length) {
-    return '';
-  }
-  if (typeof type === 'string') {
-    return encodeText(type);
-  }
-  // array
-  return `"${type.map(encodeText).join(',')}"`;
-};
-
-export const formatType = (type: string): string => {
-  const value = formatTypeValue(type);
-  return value && `;TYPE=${value}`;
-};
 
 export const padStart = (
   origStr: string,
@@ -81,26 +51,4 @@ export const padStart = (
   let str = origStr;
   while (str.length < length) str = padWith + str;
   return str;
-};
-
-export const formatGender = (gender: string): string => {
-  switch (gender.toUpperCase()) {
-    case 'M':
-    case 'MALE':
-      return 'M';
-    case 'F':
-    case 'FEMALE':
-      return 'F';
-    case 'O':
-    case 'OTHER':
-      return 'O';
-    case 'N':
-    case 'NONE':
-      return 'N';
-    case 'U':
-    case 'UNKNOWN':
-      return 'U';
-    default:
-      return `O;${encodeText(gender)}`;
-  }
 };

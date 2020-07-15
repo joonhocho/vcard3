@@ -25,7 +25,7 @@ param        = adr-param / text-param
 value        = text-value
 */
 import {
-  customLabel,
+  formatCustomLabel,
   encodeText,
   filterSet,
   formatAppleLabel,
@@ -118,7 +118,7 @@ export const ADR = ({
     isAppleLabel &&
       formatAppleLabel(ADRAppleLabel[LABEL as keyof typeof ADRAppleLabel]),
 
-    isCustomLabel && customLabel(label),
+    isCustomLabel && formatCustomLabel(label),
 
     countryCode && `X-ABADR:${countryCode.toLowerCase()}`,
 
