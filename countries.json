@@ -1,0 +1,5102 @@
+[
+  {
+    "alpha2": "AD",
+    "shortName": "ANDORRA",
+    "shortNameLowerCase": "Andorra",
+    "fullName": "the Principality of Andorra",
+    "alpha3": "AND",
+    "numeric": "020",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "ca",
+        "alpha3": "cat"
+      }
+    ]
+  },
+  {
+    "alpha2": "AE",
+    "shortName": "UNITED ARAB EMIRATES",
+    "shortNameLowerCase": "United Arab Emirates (the)",
+    "fullName": "the United Arab Emirates",
+    "alpha3": "ARE",
+    "numeric": "784",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2": "AF",
+    "shortName": "AFGHANISTAN",
+    "shortNameLowerCase": "Afghanistan",
+    "fullName": "the Islamic Republic of Afghanistan",
+    "alpha3": "AFG",
+    "numeric": "004",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "fa",
+        "alpha3": "fas"
+      },
+      {
+        "alpha2": "ps",
+        "alpha3": "pus"
+      }
+    ]
+  },
+  {
+    "alpha2": "AG",
+    "shortName": "ANTIGUA AND BARBUDA",
+    "shortNameLowerCase": "Antigua and Barbuda",
+    "fullName": "",
+    "alpha3": "ATG",
+    "numeric": "028",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Redonda Island",
+    "status": "Officially assigned",
+    "remark1": "Includes: Redonda Island.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "AI",
+    "shortName": "ANGUILLA",
+    "shortNameLowerCase": "Anguilla",
+    "fullName": "",
+    "alpha3": "AIA",
+    "numeric": "660",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "AL",
+    "shortName": "ALBANIA",
+    "shortNameLowerCase": "Albania",
+    "fullName": "the Republic of Albania",
+    "alpha3": "ALB",
+    "numeric": "008",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "sq",
+        "alpha3": "sqi"
+      }
+    ]
+  },
+  {
+    "alpha2": "AM",
+    "shortName": "ARMENIA",
+    "shortNameLowerCase": "Armenia",
+    "fullName": "the Republic of Armenia",
+    "alpha3": "ARM",
+    "numeric": "051",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark3": "Formerly part of USSR  (SU, SUN, 810) before its split. See code element SUHH.",
+    "languages": [
+      {
+        "alpha2": "hy",
+        "alpha3": "hye"
+      }
+    ]
+  },
+  {
+    "alpha2": "AO",
+    "shortName": "ANGOLA",
+    "shortNameLowerCase": "Angola",
+    "fullName": "the Republic of Angola",
+    "alpha3": "AGO",
+    "numeric": "024",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Cabinda",
+    "status": "Officially assigned",
+    "remark1": "Includes: Cabinda.",
+    "languages": [
+      {
+        "alpha2": "pt",
+        "alpha3": "por"
+      }
+    ]
+  },
+  {
+    "alpha2": "AQ",
+    "shortName": "ANTARCTICA",
+    "shortNameLowerCase": "Antarctica",
+    "fullName": "",
+    "alpha3": "ATA",
+    "numeric": "010",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "Territories south of 60° south latitude.",
+    "remark2": "No subdivisions relevant for this standard.",
+    "remark3": "French Southern and Antarctic Territories (FQ, ATF, --) are now part of Antarctica and French Southern Territories (TF, ATF, 260). See also code element FQHH. Dronning Maud Land (NQ, ATN, 216) is now part of Antarctica. See also code element NQAQ."
+  },
+  {
+    "alpha2": "AR",
+    "shortName": "ARGENTINA",
+    "shortNameLowerCase": "Argentina",
+    "fullName": "the Argentine Republic",
+    "alpha3": "ARG",
+    "numeric": "032",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "AS",
+    "shortName": "AMERICAN SAMOA",
+    "shortNameLowerCase": "American Samoa",
+    "fullName": "",
+    "alpha3": "ASM",
+    "numeric": "016",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Swain's Island, Tutuila",
+    "status": "Officially assigned",
+    "remark1": "Principal island:Tutuila. Includes: Swain's Island",
+    "remark2": "No subdivisions relevant for this standard. Included also as a subdivision of the United States (US-AS).",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "AT",
+    "shortName": "AUSTRIA",
+    "shortNameLowerCase": "Austria",
+    "fullName": "the Republic of Austria",
+    "alpha3": "AUT",
+    "numeric": "040",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "de",
+        "alpha3": "deu"
+      }
+    ]
+  },
+  {
+    "alpha2": "AU",
+    "shortName": "AUSTRALIA",
+    "shortNameLowerCase": "Australia",
+    "fullName": "",
+    "alpha3": "AUS",
+    "numeric": "036",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Ashmore and Cartier Islands , Coral Sea Islands , Lord Howe Island, Macquarie Island",
+    "status": "Officially assigned",
+    "remark1": "Often referred to as the Commonwealth of Australia. Includes: Lord Howe Island, Macquarie Island; and also Ashmore and Cartier Islands, and Coral Sea Islands which are Australian external territories.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "AW",
+    "shortName": "ARUBA",
+    "shortNameLowerCase": "Aruba",
+    "fullName": "",
+    "alpha3": "ABW",
+    "numeric": "533",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard. Included also as subdivision of Netherlands (NL-AW).",
+    "languages": [
+      {
+        "alpha2": "nl",
+        "alpha3": "nld"
+      },
+      {
+        "alpha2": "-",
+        "alpha3": "pap"
+      }
+    ]
+  },
+  {
+    "alpha2": "AX",
+    "shortName": "ÅLAND ISLANDS",
+    "shortNameLowerCase": "Åland Islands",
+    "fullName": "",
+    "alpha3": "ALA",
+    "numeric": "248",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "sv",
+        "alpha3": "swe"
+      }
+    ]
+  },
+  {
+    "alpha2": "AZ",
+    "shortName": "AZERBAIJAN",
+    "shortNameLowerCase": "Azerbaijan",
+    "fullName": "the Republic of Azerbaijan",
+    "alpha3": "AZE",
+    "numeric": "031",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark3": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "languages": [
+      {
+        "alpha2": "az",
+        "alpha3": "aze"
+      }
+    ]
+  },
+  {
+    "alpha2": "BA",
+    "shortName": "BOSNIA AND HERZEGOVINA",
+    "shortNameLowerCase": "Bosnia and Herzegovina",
+    "fullName": "",
+    "alpha3": "BIH",
+    "numeric": "070",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Herzegovina *",
+    "status": "Officially assigned",
+    "remark1": "Herzegovina * is the second significant part of composite country name.",
+    "remark3": "Formerly part of Yugoslavia  (YU, YUG, 891) before its split. See code element YUCS.",
+    "languages": [
+      {
+        "alpha2": "bs",
+        "alpha3": "bos"
+      },
+      {
+        "alpha2": "hr",
+        "alpha3": "hrv"
+      },
+      {
+        "alpha2": "sr",
+        "alpha3": "srp"
+      }
+    ]
+  },
+  {
+    "alpha2": "BB",
+    "shortName": "BARBADOS",
+    "shortNameLowerCase": "Barbados",
+    "fullName": "",
+    "alpha3": "BRB",
+    "numeric": "052",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "BD",
+    "shortName": "BANGLADESH",
+    "shortNameLowerCase": "Bangladesh",
+    "fullName": "the People's Republic of Bangladesh",
+    "alpha3": "BGD",
+    "numeric": "050",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "bn",
+        "alpha3": "ben"
+      }
+    ]
+  },
+  {
+    "alpha2": "BE",
+    "shortName": "BELGIUM",
+    "shortNameLowerCase": "Belgium",
+    "fullName": "the Kingdom of Belgium",
+    "alpha3": "BEL",
+    "numeric": "056",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "de",
+        "alpha3": "deu"
+      },
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      },
+      {
+        "alpha2": "nl",
+        "alpha3": "nld"
+      }
+    ]
+  },
+  {
+    "alpha2": "BF",
+    "shortName": "BURKINA FASO",
+    "shortNameLowerCase": "Burkina Faso",
+    "fullName": "",
+    "alpha3": "BFA",
+    "numeric": "854",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark3": "Name changed from Upper Volta (HV, HVO, 854) to Burkina Faso. See also code element HVBF.",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "BG",
+    "shortName": "BULGARIA",
+    "shortNameLowerCase": "Bulgaria",
+    "fullName": "the Republic of Bulgaria",
+    "alpha3": "BGR",
+    "numeric": "100",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "bg",
+        "alpha3": "bul"
+      }
+    ]
+  },
+  {
+    "alpha2": "BH",
+    "shortName": "BAHRAIN",
+    "shortNameLowerCase": "Bahrain",
+    "fullName": "the Kingdom of Bahrain",
+    "alpha3": "BHR",
+    "numeric": "048",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2": "BI",
+    "shortName": "BURUNDI",
+    "shortNameLowerCase": "Burundi",
+    "fullName": "the Republic of Burundi",
+    "alpha3": "BDI",
+    "numeric": "108",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      },
+      {
+        "alpha2": "rn",
+        "alpha3": "run"
+      }
+    ]
+  },
+  {
+    "alpha2": "BJ",
+    "shortName": "BENIN",
+    "shortNameLowerCase": "Benin",
+    "fullName": "the Republic of Benin",
+    "alpha3": "BEN",
+    "numeric": "204",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark3": "Name changed from Dahomey (DY, DHY, 204) to Benin .  See code element DYBJ.",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "BL",
+    "shortName": "SAINT BARTHÉLEMY",
+    "shortNameLowerCase": "Saint Barthélemy",
+    "fullName": "",
+    "alpha3": "BLM",
+    "numeric": "652",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard. Included also as subdivision of France (FR-BL).",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "BM",
+    "shortName": "BERMUDA",
+    "shortNameLowerCase": "Bermuda",
+    "fullName": "",
+    "alpha3": "BMU",
+    "numeric": "060",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "BN",
+    "shortName": "BRUNEI DARUSSALAM",
+    "shortNameLowerCase": "Brunei Darussalam",
+    "fullName": "",
+    "alpha3": "BRN",
+    "numeric": "096",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "Variant: Negara Brunei Darussalam.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "ms",
+        "alpha3": "msa"
+      }
+    ]
+  },
+  {
+    "alpha2": "BO",
+    "shortName": "BOLIVIA (PLURINATIONAL STATE OF)",
+    "shortNameLowerCase": "Bolivia (Plurinational State of)",
+    "fullName": "the Plurinational State of Bolivia",
+    "alpha3": "BOL",
+    "numeric": "068",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "BQ",
+    "shortName": "BONAIRE, SINT EUSTATIUS AND SABA",
+    "shortNameLowerCase": "Bonaire, Sint Eustatius and Saba",
+    "fullName": "",
+    "alpha3": "BES",
+    "numeric": "535",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Bonaire, Saba, Sint Eustatius",
+    "status": "Officially assigned",
+    "remark1": "Often referred to as Caribbean Netherlands.",
+    "remark2": "Included as a subdivision of the Netherlands (NL-BQ).",
+    "remark3": "The code BQ was formerly used for British Antarctic Territory (BQ, ATB, --). See also code element BQAQ. BQ has been reused and reassigned to Bonaire, Sint Eustatius and Saba. The Netherlands Antilles (AN, ANT, 530) was divided into Bonaire, Saint Eustatius and Saba (BQ, BES, 535), Curaçao (CW, CUW, 531) and Sint Maarten (Dutch part) (SX, SXM, 534). See also code element ANHH.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "nl",
+        "alpha3": "nld"
+      },
+      {
+        "alpha2": "-",
+        "alpha3": "pap"
+      }
+    ]
+  },
+  {
+    "alpha2": "BR",
+    "shortName": "BRAZIL",
+    "shortNameLowerCase": "Brazil",
+    "fullName": "the Federative Republic of Brazil",
+    "alpha3": "BRA",
+    "numeric": "076",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Fernando de Noronha Island, Martim Vaz Islands, Trindade Island",
+    "status": "Officially assigned",
+    "remark1": "Includes: Fernando de Noronha Island, Martim Vaz Islands, Trindade Island.",
+    "languages": [
+      {
+        "alpha2": "pt",
+        "alpha3": "por"
+      }
+    ]
+  },
+  {
+    "alpha2": "BS",
+    "shortName": "BAHAMAS",
+    "shortNameLowerCase": "Bahamas (the)",
+    "fullName": "the Commonwealth of the Bahamas",
+    "alpha3": "BHS",
+    "numeric": "044",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "The island of New Providence, where the capital Nassau is located, is administered directly by the national government.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "BT",
+    "shortName": "BHUTAN",
+    "shortNameLowerCase": "Bhutan",
+    "fullName": "the Kingdom of Bhutan",
+    "alpha3": "BTN",
+    "numeric": "064",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "dz",
+        "alpha3": "dzo"
+      }
+    ]
+  },
+  {
+    "alpha2": "BV",
+    "shortName": "BOUVET ISLAND",
+    "shortNameLowerCase": "Bouvet Island",
+    "fullName": "",
+    "alpha3": "BVT",
+    "numeric": "074",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "nn",
+        "alpha3": "nno"
+      },
+      {
+        "alpha2": "nb",
+        "alpha3": "nob"
+      }
+    ]
+  },
+  {
+    "alpha2": "BW",
+    "shortName": "BOTSWANA",
+    "shortNameLowerCase": "Botswana",
+    "fullName": "the Republic of Botswana",
+    "alpha3": "BWA",
+    "numeric": "072",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "BY",
+    "shortName": "BELARUS",
+    "shortNameLowerCase": "Belarus",
+    "fullName": "the Republic of Belarus",
+    "alpha3": "BLR",
+    "numeric": "112",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "remark3": "Name changed from Byelorussian SSR (BY, BYS, 112) to Belarus. Code element BYS removed from ISO 3166-1. See code element BYAA. Formerly part of USSR (SU, SUN, 810) before its split. See also code element SUHH.",
+    "languages": [
+      {
+        "alpha2": "be",
+        "alpha3": "bel"
+      },
+      {
+        "alpha2": "ru",
+        "alpha3": "rus"
+      }
+    ]
+  },
+  {
+    "alpha2": "BZ",
+    "shortName": "BELIZE",
+    "shortNameLowerCase": "Belize",
+    "fullName": "",
+    "alpha3": "BLZ",
+    "numeric": "084",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "CA",
+    "shortName": "CANADA",
+    "shortNameLowerCase": "Canada",
+    "fullName": "",
+    "alpha3": "CAN",
+    "numeric": "124",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "CC",
+    "shortName": "COCOS (KEELING) ISLANDS",
+    "shortNameLowerCase": "Cocos (Keeling) Islands (the)",
+    "fullName": "",
+    "alpha3": "CCK",
+    "numeric": "166",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "CD",
+    "shortName": "CONGO, DEMOCRATIC REPUBLIC OF THE",
+    "shortNameLowerCase": "Congo (the Democratic Republic of the)",
+    "fullName": "the Democratic Republic of the Congo",
+    "alpha3": "COD",
+    "numeric": "180",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "Previous entry: ZAIRE.",
+    "remark2": "Remark: Ex Zaire/Zaïre, change of name 1997-05-17",
+    "remark3": "Name changed from Zaire (ZR, ZAR, 180) to the Democratic Republic of the Congo. See also code element ZRCD.",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "CF",
+    "shortName": "CENTRAL AFRICAN REPUBLIC",
+    "shortNameLowerCase": "Central African Republic (the)",
+    "fullName": "the Central African Republic",
+    "alpha3": "CAF",
+    "numeric": "140",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      },
+      {
+        "alpha2": "sg",
+        "alpha3": "sag"
+      }
+    ]
+  },
+  {
+    "alpha2": "CG",
+    "shortName": "CONGO",
+    "shortNameLowerCase": "Congo (the)",
+    "fullName": "the Republic of the Congo",
+    "alpha3": "COG",
+    "numeric": "178",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "CH",
+    "shortName": "SWITZERLAND",
+    "shortNameLowerCase": "Switzerland",
+    "fullName": "the Swiss Confederation",
+    "alpha3": "CHE",
+    "numeric": "756",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "de",
+        "alpha3": "deu"
+      },
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      },
+      {
+        "alpha2": "it",
+        "alpha3": "ita"
+      },
+      {
+        "alpha2": "rm",
+        "alpha3": "roh"
+      }
+    ]
+  },
+  {
+    "alpha2": "CI",
+    "shortName": "CÔTE D'IVOIRE",
+    "shortNameLowerCase": "Côte d'Ivoire",
+    "fullName": "the Republic of Côte d'Ivoire",
+    "alpha3": "CIV",
+    "numeric": "384",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "CK",
+    "shortName": "COOK ISLANDS",
+    "shortNameLowerCase": "Cook Islands (the)",
+    "fullName": "",
+    "alpha3": "COK",
+    "numeric": "184",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Rarotonga",
+    "status": "Officially assigned",
+    "remark1": "Principal island: Rarotonga.",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "CL",
+    "shortName": "CHILE",
+    "shortNameLowerCase": "Chile",
+    "fullName": "the Republic of Chile",
+    "alpha3": "CHL",
+    "numeric": "152",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Easter Island, Juan Fernández Islands, Sala y Gómez Island, San Ambrosio Island, San Félix Island",
+    "status": "Officially assigned",
+    "remark1": "Includes: Easter Island, Juan Fernández Islands, Sala y Gómez Island, San Ambrosio Island, San Félix Island.",
+    "languages": [
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "CM",
+    "shortName": "CAMEROON",
+    "shortNameLowerCase": "Cameroon",
+    "fullName": "the Republic of Cameroon",
+    "alpha3": "CMR",
+    "numeric": "120",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "CN",
+    "shortName": "CHINA",
+    "shortNameLowerCase": "China",
+    "fullName": "the People's Republic of China",
+    "alpha3": "CHN",
+    "numeric": "156",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "See also TAIWAN, PROVINCE OF CHINA.",
+    "languages": [
+      {
+        "alpha2": "zh",
+        "alpha3": "zho"
+      }
+    ]
+  },
+  {
+    "alpha2": "CO",
+    "shortName": "COLOMBIA",
+    "shortNameLowerCase": "Colombia",
+    "fullName": "the Republic of Colombia",
+    "alpha3": "COL",
+    "numeric": "170",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Malpelo Island, San Andrés y Providencia Islands",
+    "status": "Officially assigned",
+    "remark1": "Includes: Malpelo Island, San Andrés y Providencia Islands.",
+    "languages": [
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "CR",
+    "shortName": "COSTA RICA",
+    "shortNameLowerCase": "Costa Rica",
+    "fullName": "the Republic of Costa Rica",
+    "alpha3": "CRI",
+    "numeric": "188",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Coco Island",
+    "status": "Officially assigned",
+    "remark1": "Includes: Coco Island.",
+    "languages": [
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "CU",
+    "shortName": "CUBA",
+    "shortNameLowerCase": "Cuba",
+    "fullName": "the Republic of Cuba",
+    "alpha3": "CUB",
+    "numeric": "192",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "CV",
+    "shortName": "CABO VERDE",
+    "shortNameLowerCase": "Cabo Verde",
+    "fullName": "the Republic of Cabo Verde",
+    "alpha3": "CPV",
+    "numeric": "132",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "São Tiago, São Vicente",
+    "status": "Officially assigned",
+    "remark1": "Principal islands: São Tiago, São Vicente.",
+    "languages": [
+      {
+        "alpha2": "pt",
+        "alpha3": "por"
+      }
+    ]
+  },
+  {
+    "alpha2": "CW",
+    "shortName": "CURAÇAO",
+    "shortNameLowerCase": "Curaçao",
+    "fullName": "",
+    "alpha3": "CUW",
+    "numeric": "531",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard. Included also as subdivision of Netherlands (NL-CW).",
+    "remark3": "The Netherlands Antilles (AN, ANT, 530) was divided into Bonaire, Saint Eustatius and Saba (BQ, BES, 535), Curaçao (CW, CUW, 531) and Sint Maarten (Dutch part) (SX, SXM, 534). See also code element ANHH.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "nl",
+        "alpha3": "nld"
+      },
+      {
+        "alpha2": "-",
+        "alpha3": "pap"
+      }
+    ]
+  },
+  {
+    "alpha2": "CX",
+    "shortName": "CHRISTMAS ISLAND",
+    "shortNameLowerCase": "Christmas Island",
+    "fullName": "",
+    "alpha3": "CXR",
+    "numeric": "162",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "CY",
+    "shortName": "CYPRUS",
+    "shortNameLowerCase": "Cyprus",
+    "fullName": "the Republic of Cyprus",
+    "alpha3": "CYP",
+    "numeric": "196",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "el",
+        "alpha3": "ell"
+      },
+      {
+        "alpha2": "tr",
+        "alpha3": "tur"
+      }
+    ]
+  },
+  {
+    "alpha2": "CZ",
+    "shortName": "CZECHIA",
+    "shortNameLowerCase": "Czechia",
+    "fullName": "the Czech Republic",
+    "alpha3": "CZE",
+    "numeric": "203",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark3": "Czechoslovakia (CS, CSK, 200) was divided into Czechia (CZ, CZE, 203), and Slovakia (SK, SVK, 703). See also code element CSHH.",
+    "languages": [
+      {
+        "alpha2": "cs",
+        "alpha3": "ces"
+      }
+    ]
+  },
+  {
+    "alpha2": "DE",
+    "shortName": "GERMANY",
+    "shortNameLowerCase": "Germany",
+    "fullName": "the Federal Republic of Germany",
+    "alpha3": "DEU",
+    "numeric": "276",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark3": "Since reunification, the code elements for the former German Democratic Republic (DD, DDR, 278) have been incorporated into the code elements for Germany. See also code element DDDE.",
+    "languages": [
+      {
+        "alpha2": "de",
+        "alpha3": "deu"
+      }
+    ]
+  },
+  {
+    "alpha2": "DJ",
+    "shortName": "DJIBOUTI",
+    "shortNameLowerCase": "Djibouti",
+    "fullName": "the Republic of Djibouti",
+    "alpha3": "DJI",
+    "numeric": "262",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark3": "Name changed from French Afars and Issas (AI, AFI, --) to Djibouti. See also code element AIDJ.",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      },
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "DK",
+    "shortName": "DENMARK",
+    "shortNameLowerCase": "Denmark",
+    "fullName": "the Kingdom of Denmark",
+    "alpha3": "DNK",
+    "numeric": "208",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "da",
+        "alpha3": "dan"
+      }
+    ]
+  },
+  {
+    "alpha2": "DM",
+    "shortName": "DOMINICA",
+    "shortNameLowerCase": "Dominica",
+    "fullName": "the Commonwealth of Dominica",
+    "alpha3": "DMA",
+    "numeric": "212",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "DO",
+    "shortName": "DOMINICAN REPUBLIC",
+    "shortNameLowerCase": "Dominican Republic (the)",
+    "fullName": "the Dominican Republic",
+    "alpha3": "DOM",
+    "numeric": "214",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "DZ",
+    "shortName": "ALGERIA",
+    "shortNameLowerCase": "Algeria",
+    "fullName": "the People's Democratic Republic of Algeria",
+    "alpha3": "DZA",
+    "numeric": "012",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2": "EC",
+    "shortName": "ECUADOR",
+    "shortNameLowerCase": "Ecuador",
+    "fullName": "the Republic of Ecuador",
+    "alpha3": "ECU",
+    "numeric": "218",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Galápagos Islands",
+    "status": "Officially assigned",
+    "remark1": "Includes: Galápagos Islands.",
+    "languages": [
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "EE",
+    "shortName": "ESTONIA",
+    "shortNameLowerCase": "Estonia",
+    "fullName": "the Republic of Estonia",
+    "alpha3": "EST",
+    "numeric": "233",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark3": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "languages": [
+      {
+        "alpha2": "et",
+        "alpha3": "est"
+      }
+    ]
+  },
+  {
+    "alpha2": "EG",
+    "shortName": "EGYPT",
+    "shortNameLowerCase": "Egypt",
+    "fullName": "the Arab Republic of Egypt",
+    "alpha3": "EGY",
+    "numeric": "818",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2": "EH",
+    "shortName": "WESTERN SAHARA *",
+    "shortNameLowerCase": "Western Sahara*",
+    "fullName": "",
+    "alpha3": "ESH",
+    "numeric": "732",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "statusRemark": "ye",
+    "remark1": "* Provisional name.",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2": "ER",
+    "shortName": "ERITREA",
+    "shortNameLowerCase": "Eritrea",
+    "fullName": "the State of Eritrea",
+    "alpha3": "ERI",
+    "numeric": "232",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      },
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "ti",
+        "alpha3": "tir"
+      }
+    ]
+  },
+  {
+    "alpha2": "ES",
+    "shortName": "SPAIN",
+    "shortNameLowerCase": "Spain",
+    "fullName": "the Kingdom of Spain",
+    "alpha3": "ESP",
+    "numeric": "724",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "Remark: In the autonomous communities of Galicia, Catalonia and the Balearics, the respective regional languages are the sole official languages of toponymy. Castilian language forms are given in square brackets for information. For the autonomous communities of Navarra, Valencia and the Basque Country, with the exception of the province names Bizkaia and Gipuzkoa, the regional language has co-official status with Castilian (regional language forms are marked with an asterisk).",
+    "languages": [
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "ET",
+    "shortName": "ETHIOPIA",
+    "shortNameLowerCase": "Ethiopia",
+    "fullName": "the Federal Democratic Republic of Ethiopia",
+    "alpha3": "ETH",
+    "numeric": "231",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "languages": [
+      {
+        "alpha2": "am",
+        "alpha3": "amh"
+      }
+    ]
+  },
+  {
+    "alpha2": "FI",
+    "shortName": "FINLAND",
+    "shortNameLowerCase": "Finland",
+    "fullName": "the Republic of Finland",
+    "alpha3": "FIN",
+    "numeric": "246",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Åland Islands",
+    "status": "Officially assigned",
+    "remark1": "Includes: Åland Islands.",
+    "languages": [
+      {
+        "alpha2": "fi",
+        "alpha3": "fin"
+      },
+      {
+        "alpha2": "sv",
+        "alpha3": "swe"
+      }
+    ]
+  },
+  {
+    "alpha2": "FJ",
+    "shortName": "FIJI",
+    "shortNameLowerCase": "Fiji",
+    "fullName": "the Republic of Fiji",
+    "alpha3": "FJI",
+    "numeric": "242",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Rotuma Island, Vanua Levu, Viti Levu",
+    "status": "Officially assigned",
+    "remark1": "Principal islands: Vanua Levu, Viti Levu. Includes Rotuma Island.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "fj",
+        "alpha3": "fij"
+      }
+    ]
+  },
+  {
+    "alpha2": "FK",
+    "shortName": "FALKLAND ISLANDS (MALVINAS)",
+    "shortNameLowerCase": "Falkland Islands (the) [Malvinas]",
+    "fullName": "",
+    "alpha3": "FLK",
+    "numeric": "238",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "FM",
+    "shortName": "MICRONESIA (FEDERATED STATES OF)",
+    "shortNameLowerCase": "Micronesia (Federated States of)",
+    "fullName": "the Federated States of Micronesia",
+    "alpha3": "FSM",
+    "numeric": "583",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Caroline Islands ,  Chuuk,  Kosrae,  Pohnpei,  Yap",
+    "status": "Officially assigned",
+    "remark1": "Comprises: Caroline Islands (except PALAU, see separate entry). Principal islands: Chuuk, Kosrae, Pohnpei, YapChuuk, Kosrae, Pohnpei, Yap.",
+    "remark3": "Pacific Islands (Trust Territory) (PC, PCI, 582) were divided into: Marshall Islands (MH, MHL, 584), Federated States of Micronesia, Northern Mariana Islands (MP, MNP, 580) and Palau (PW, PLW, 585). See also code element PCHH.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "FO",
+    "shortName": "FAROE ISLANDS",
+    "shortNameLowerCase": "Faroe Islands (the)",
+    "fullName": "",
+    "alpha3": "FRO",
+    "numeric": "234",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "da",
+        "alpha3": "dan"
+      },
+      {
+        "alpha2": "fo",
+        "alpha3": "fao"
+      }
+    ]
+  },
+  {
+    "alpha2": "FR",
+    "shortName": "FRANCE",
+    "shortNameLowerCase": "France",
+    "fullName": "the French Republic",
+    "alpha3": "FRA",
+    "numeric": "250",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "Comprises: Metropolitan France, French Guiana, Guadeloupe, Martinique, La Réunion, Mayotte, Saint Barthélemy, Saint Martin, Saint Pierre and Miquelon, French Polynesia, French Southern Territories, New Caledonia, Wallis and Futuna.  Includes: Clipperton Island.",
+    "remark3": "Metropolitan France (FX, FXX, 249) is now incorporated into the entry for France (FR, FRA, 250). See also code element FXFR.",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "GA",
+    "shortName": "GABON",
+    "shortNameLowerCase": "Gabon",
+    "fullName": "the Gabonese Republic",
+    "alpha3": "GAB",
+    "numeric": "266",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "GB",
+    "shortName": "UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND",
+    "shortNameLowerCase": "United Kingdom of Great Britain and Northern Ireland (the)",
+    "fullName": "the United Kingdom of Great Britain and Northern Ireland",
+    "alpha3": "GBR",
+    "numeric": "826",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "remark2": "BS 6879 gives alternative name forms in Welsh (cy) for some of the Welsh unitary authorities (together with alternative code elements). Since this part of ISO 3166 does not allow for duplicate coding of identical subdivisions, such alternative names in Welsh and code elements are shown for information purposes only in square brackets after the English name of the subdivision Country (en) / pays (fr), Province (en) / province (fr): ENG England country NIR Northern Ireland province SCT Scotland country WLS Wales [Cymru GB-CYM] country Included for completeness EAW England and Wales GBN Great Britain UKM United Kingdom",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "GD",
+    "shortName": "GRENADA",
+    "shortNameLowerCase": "Grenada",
+    "fullName": "",
+    "alpha3": "GRD",
+    "numeric": "308",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Carriacou, Southern Grenadine Islands",
+    "status": "Officially assigned",
+    "remark1": "Includes: Southern Grenadine Islands (Principal island: Carriacou).",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "GE",
+    "shortName": "GEORGIA",
+    "shortNameLowerCase": "Georgia",
+    "fullName": "",
+    "alpha3": "GEO",
+    "numeric": "268",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "The code GE was formerly used for the Gilbert and Ellice Islands (GE, GEL, --) and has been reused and reassigned to Georgia. See also code element GEKI.",
+    "remark3": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "languages": [
+      {
+        "alpha2": "ka",
+        "alpha3": "kat"
+      }
+    ]
+  },
+  {
+    "alpha2": "GF",
+    "shortName": "FRENCH GUIANA",
+    "shortNameLowerCase": "French Guiana",
+    "fullName": "",
+    "alpha3": "GUF",
+    "numeric": "254",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "remark2": "No subdivisions relevant for this standard. Included also as subdivision of France (FR-GF).",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "GG",
+    "shortName": "GUERNSEY",
+    "shortNameLowerCase": "Guernsey",
+    "fullName": "",
+    "alpha3": "GGY",
+    "numeric": "831",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Alderney Island  , Brecqhou Island , Burhou Island, Sark Island  , Herm Island, Jethou Island, Lihou Island, Little Sark Island",
+    "status": "Officially assigned",
+    "remark1": "The Bailiwick of Guernsey also includes the islands of Alderney, Brecqhou, Burhou, Herm, Jethou, Lihou, Little Sark, and Sark.",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "GH",
+    "shortName": "GHANA",
+    "shortNameLowerCase": "Ghana",
+    "fullName": "the Republic of Ghana",
+    "alpha3": "GHA",
+    "numeric": "288",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "GI",
+    "shortName": "GIBRALTAR",
+    "shortNameLowerCase": "Gibraltar",
+    "fullName": "",
+    "alpha3": "GIB",
+    "numeric": "292",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "GL",
+    "shortName": "GREENLAND",
+    "shortNameLowerCase": "Greenland",
+    "fullName": "",
+    "alpha3": "GRL",
+    "numeric": "304",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "da",
+        "alpha3": "dan"
+      },
+      {
+        "alpha2": "kl",
+        "alpha3": "kal"
+      }
+    ]
+  },
+  {
+    "alpha2": "GM",
+    "shortName": "GAMBIA",
+    "shortNameLowerCase": "Gambia (the)",
+    "fullName": "the Republic of the Gambia",
+    "alpha3": "GMB",
+    "numeric": "270",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "GN",
+    "shortName": "GUINEA",
+    "shortNameLowerCase": "Guinea",
+    "fullName": "the Republic of Guinea",
+    "alpha3": "GIN",
+    "numeric": "324",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "GP",
+    "shortName": "GUADELOUPE",
+    "shortNameLowerCase": "Guadeloupe",
+    "fullName": "",
+    "alpha3": "GLP",
+    "numeric": "312",
+    "remarks": "",
+    "independent": "No",
+    "territory": "la Désirade, Marie-Galante, les Saintes",
+    "status": "Officially assigned",
+    "remark1": "Includes: la Désirade, Marie-Galante, les Saintes.",
+    "remark2": "No subdivisions relevant for this standard. Included also as subdivision of France (FR-GP).",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "GQ",
+    "shortName": "EQUATORIAL GUINEA",
+    "shortNameLowerCase": "Equatorial Guinea",
+    "fullName": "the Republic of Equatorial Guinea",
+    "alpha3": "GNQ",
+    "numeric": "226",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Annobón Island, Bioko Island, Continental Region (Rio Muni) , Rio Muni",
+    "status": "Officially assigned",
+    "remark1": "Comprises: Annobón Island, Bioko Island, the Continental Region (Rio Muni).",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      },
+      {
+        "alpha2": "pt",
+        "alpha3": "por"
+      },
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "GR",
+    "shortName": "GREECE",
+    "shortNameLowerCase": "Greece",
+    "fullName": "the Hellenic Republic",
+    "alpha3": "GRC",
+    "numeric": "300",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Mount Athos autonomous area",
+    "status": "Officially assigned",
+    "remark1": "Includes: Mount Athos autonomous area.",
+    "languages": [
+      {
+        "alpha2": "el",
+        "alpha3": "ell"
+      }
+    ]
+  },
+  {
+    "alpha2": "GS",
+    "shortName": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+    "shortNameLowerCase": "South Georgia and the South Sandwich Islands",
+    "fullName": "",
+    "alpha3": "SGS",
+    "numeric": "239",
+    "remarks": "",
+    "independent": "No",
+    "territory": "South Sandwich Islands  *",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "GT",
+    "shortName": "GUATEMALA",
+    "shortNameLowerCase": "Guatemala",
+    "fullName": "the Republic of Guatemala",
+    "alpha3": "GTM",
+    "numeric": "320",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "languages": [
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "GU",
+    "shortName": "GUAM",
+    "shortNameLowerCase": "Guam",
+    "fullName": "",
+    "alpha3": "GUM",
+    "numeric": "316",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard. Included also as subdivision of the United States (US-GU).",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "GW",
+    "shortName": "GUINEA-BISSAU",
+    "shortNameLowerCase": "Guinea-Bissau",
+    "fullName": "the Republic of Guinea-Bissau",
+    "alpha3": "GNB",
+    "numeric": "624",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "languages": [
+      {
+        "alpha2": "pt",
+        "alpha3": "por"
+      }
+    ]
+  },
+  {
+    "alpha2": "GY",
+    "shortName": "GUYANA",
+    "shortNameLowerCase": "Guyana",
+    "fullName": "the Co-operative Republic of Guyana",
+    "alpha3": "GUY",
+    "numeric": "328",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "HK",
+    "shortName": "HONG KONG",
+    "shortNameLowerCase": "Hong Kong",
+    "fullName": "the Hong Kong Special Administrative Region of China",
+    "alpha3": "HKG",
+    "numeric": "344",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard. Included also as subdivision of China (CN-HK).",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "zh",
+        "alpha3": "zho"
+      }
+    ]
+  },
+  {
+    "alpha2": "HM",
+    "shortName": "HEARD ISLAND AND MCDONALD ISLANDS",
+    "shortNameLowerCase": "Heard Island and McDonald Islands",
+    "fullName": "",
+    "alpha3": "HMD",
+    "numeric": "334",
+    "remarks": "",
+    "independent": "No",
+    "territory": "McDonald Islands  *",
+    "status": "Officially assigned",
+    "remark1": "",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "HN",
+    "shortName": "HONDURAS",
+    "shortNameLowerCase": "Honduras",
+    "fullName": "the Republic of Honduras",
+    "alpha3": "HND",
+    "numeric": "340",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Swan Islands",
+    "status": "Officially assigned",
+    "remark1": "Includes: Swan Islands.",
+    "languages": [
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "HR",
+    "shortName": "CROATIA",
+    "shortNameLowerCase": "Croatia",
+    "fullName": "the Republic of Croatia",
+    "alpha3": "HRV",
+    "numeric": "191",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark3": "Formerly part of Yougoslavia  (YU, YUG, 891) before its split. See code element YUCS.",
+    "languages": [
+      {
+        "alpha2": "hr",
+        "alpha3": "hrv"
+      }
+    ]
+  },
+  {
+    "alpha2": "HT",
+    "shortName": "HAITI",
+    "shortNameLowerCase": "Haiti",
+    "fullName": "the Republic of Haiti",
+    "alpha3": "HTI",
+    "numeric": "332",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      },
+      {
+        "alpha2": "ht",
+        "alpha3": "hat"
+      }
+    ]
+  },
+  {
+    "alpha2": "HU",
+    "shortName": "HUNGARY",
+    "shortNameLowerCase": "Hungary",
+    "fullName": "",
+    "alpha3": "HUN",
+    "numeric": "348",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "hu",
+        "alpha3": "hun"
+      }
+    ]
+  },
+  {
+    "alpha2": "ID",
+    "shortName": "INDONESIA",
+    "shortNameLowerCase": "Indonesia",
+    "fullName": "the Republic of Indonesia",
+    "alpha3": "IDN",
+    "numeric": "360",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "id",
+        "alpha3": "ind"
+      }
+    ]
+  },
+  {
+    "alpha2": "IE",
+    "shortName": "IRELAND",
+    "shortNameLowerCase": "Ireland",
+    "fullName": "",
+    "alpha3": "IRL",
+    "numeric": "372",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "ga",
+        "alpha3": "gle"
+      }
+    ]
+  },
+  {
+    "alpha2": "IL",
+    "shortName": "ISRAEL",
+    "shortNameLowerCase": "Israel",
+    "fullName": "the State of Israel",
+    "alpha3": "ISR",
+    "numeric": "376",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      },
+      {
+        "alpha2": "he",
+        "alpha3": "heb"
+      }
+    ]
+  },
+  {
+    "alpha2": "IM",
+    "shortName": "ISLE OF MAN",
+    "shortNameLowerCase": "Isle of Man",
+    "fullName": "",
+    "alpha3": "IMN",
+    "numeric": "833",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "IN",
+    "shortName": "INDIA",
+    "shortNameLowerCase": "India",
+    "fullName": "the Republic of India",
+    "alpha3": "IND",
+    "numeric": "356",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Andaman Islands, Laccadive Islands , Minicoy Island, Nicobar Islands, Amindivi Islands",
+    "status": "Officially assigned",
+    "remark1": "Includes: Amindivi Islands, Andaman Islands, Laccadive Islands, Minicoy Island, Nicobar Islands.",
+    "remark2": "Remark: the forms used in the list are English-language forms provided by India.",
+    "remark3": "Sikkim (SK, SKM, --) is now part of the entry for India.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "hi",
+        "alpha3": "hin"
+      }
+    ]
+  },
+  {
+    "alpha2": "IO",
+    "shortName": "BRITISH INDIAN OCEAN TERRITORY",
+    "shortNameLowerCase": "British Indian Ocean Territory (the)",
+    "fullName": "",
+    "alpha3": "IOT",
+    "numeric": "086",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Chagos Archipelago, Diego Garcia",
+    "status": "Officially assigned",
+    "remark1": "Comprises: Chagos Archipelago (Principal island: Diego Garcia). No subdivision reported",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "IQ",
+    "shortName": "IRAQ",
+    "shortNameLowerCase": "Iraq",
+    "fullName": "the Republic of Iraq",
+    "alpha3": "IRQ",
+    "numeric": "368",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "remark2": "Kurdish and Arabic are both official languages according to the Iraqi constitution, which states “The federal and official institutions and agencies in the Kurdistan region shall use both languages.”",
+    "remark3": "The Neutral Zone (NT, NTZ, 536) was divided and is now part of Iraq (IQ, IRQ, 368) and part of Saudi Arabia (SA, SAU, 682). The code entry (NT, NTZ,  536) was deleted from ISO 3166-1. See also code elelement NTHH.",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      },
+      {
+        "alpha2": "ku",
+        "alpha3": "kur"
+      }
+    ]
+  },
+  {
+    "alpha2": "IR",
+    "shortName": "IRAN (ISLAMIC REPUBLIC OF)",
+    "shortNameLowerCase": "Iran (Islamic Republic of)",
+    "fullName": "the Islamic Republic of Iran",
+    "alpha3": "IRN",
+    "numeric": "364",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "Also referred to as Iran.",
+    "languages": [
+      {
+        "alpha2": "fa",
+        "alpha3": "fas"
+      }
+    ]
+  },
+  {
+    "alpha2": "IS",
+    "shortName": "ICELAND",
+    "shortNameLowerCase": "Iceland",
+    "fullName": "the Republic of Iceland",
+    "alpha3": "ISL",
+    "numeric": "352",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "Remark: The Icelandic characters ð (eze) and þ (thorn) may be written as “dh” and “th”.",
+    "languages": [
+      {
+        "alpha2": "is",
+        "alpha3": "isl"
+      }
+    ]
+  },
+  {
+    "alpha2": "IT",
+    "shortName": "ITALY",
+    "shortNameLowerCase": "Italy",
+    "fullName": "the Republic of Italy",
+    "alpha3": "ITA",
+    "numeric": "380",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "it",
+        "alpha3": "ita"
+      }
+    ]
+  },
+  {
+    "alpha2": "JE",
+    "shortName": "JERSEY",
+    "shortNameLowerCase": "Jersey",
+    "fullName": "",
+    "alpha3": "JEY",
+    "numeric": "832",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "JM",
+    "shortName": "JAMAICA",
+    "shortNameLowerCase": "Jamaica",
+    "fullName": "",
+    "alpha3": "JAM",
+    "numeric": "388",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "JO",
+    "shortName": "JORDAN",
+    "shortNameLowerCase": "Jordan",
+    "fullName": "the Hashemite Kingdom of Jordan",
+    "alpha3": "JOR",
+    "numeric": "400",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2": "JP",
+    "shortName": "JAPAN",
+    "shortNameLowerCase": "Japan",
+    "fullName": "",
+    "alpha3": "JPN",
+    "numeric": "392",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "ja",
+        "alpha3": "jpn"
+      }
+    ]
+  },
+  {
+    "alpha2": "KE",
+    "shortName": "KENYA",
+    "shortNameLowerCase": "Kenya",
+    "fullName": "the Republic of Kenya",
+    "alpha3": "KEN",
+    "numeric": "404",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "sw",
+        "alpha3": "swa"
+      }
+    ]
+  },
+  {
+    "alpha2": "KG",
+    "shortName": "KYRGYZSTAN",
+    "shortNameLowerCase": "Kyrgyzstan",
+    "fullName": "the Kyrgyz Republic",
+    "alpha3": "KGZ",
+    "numeric": "417",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "remark3": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "languages": [
+      {
+        "alpha2": "ky",
+        "alpha3": "kir"
+      },
+      {
+        "alpha2": "ru",
+        "alpha3": "rus"
+      }
+    ]
+  },
+  {
+    "alpha2": "KH",
+    "shortName": "CAMBODIA",
+    "shortNameLowerCase": "Cambodia",
+    "fullName": "the Kingdom of Cambodia",
+    "alpha3": "KHM",
+    "numeric": "116",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "km",
+        "alpha3": "khm"
+      }
+    ]
+  },
+  {
+    "alpha2": "KI",
+    "shortName": "KIRIBATI",
+    "shortNameLowerCase": "Kiribati",
+    "fullName": "the Republic of Kiribati",
+    "alpha3": "KIR",
+    "numeric": "296",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Abariringa, Banaba, Enderbury Island, Gilbert Islands, Kiritimati, part of Line Islands, Phoenix Islands, Tarawa",
+    "status": "Officially assigned",
+    "remark1": "Comprises: Gilbert Islands (Principal atoll: Tarawa, including Banaba), part of Line Islands (including Kiritimati), Phoenix Islands (including Abariringa, Enderbury Island).",
+    "remark3": "Canton and Enderbury Islands (CT, CTE, 128) now part of Kirbati. See also code element CTKI. Gilbert and Ellice Islands (GE, GEL, --) divided into: Gilbert Islands now part of Kiribati, and Ellice Islands now part of Tuvalu (TV, TUV, 798). See also code element GEHH.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "-",
+        "alpha3": "gil"
+      }
+    ]
+  },
+  {
+    "alpha2": "KM",
+    "shortName": "COMOROS",
+    "shortNameLowerCase": "Comoros (the)",
+    "fullName": "the Union of the Comoros",
+    "alpha3": "COM",
+    "numeric": "174",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Anjouan, Grande Comore, Mohéli",
+    "status": "Officially assigned",
+    "remark1": "Comprises: Anjouan, Grande Comore, Mohéli. The language code \"002\" refers to the administrative language \"Shikomor\" that has not been assigned an ISO 639 language code.",
+    "remark2": "The language code \"002\" refers to the administrative language \"Shikomor\" that has not been assigned an ISO 639 language code.",
+    "languages": [
+      {
+        "alpha2": "-",
+        "alpha3": "002"
+      },
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      },
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "KN",
+    "shortName": "SAINT KITTS AND NEVIS",
+    "shortNameLowerCase": "Saint Kitts and Nevis",
+    "fullName": "",
+    "alpha3": "KNA",
+    "numeric": "659",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Nevis *",
+    "status": "Officially assigned",
+    "remark1": "the Federation of Saint Kitts and Nevis",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "KP",
+    "shortName": "KOREA (DEMOCRATIC PEOPLE'S REPUBLIC OF)",
+    "shortNameLowerCase": "Korea (the Democratic People's Republic of)",
+    "fullName": "the Democratic People's Republic of Korea",
+    "alpha3": "PRK",
+    "numeric": "408",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "Often referred to as North Korea.",
+    "languages": [
+      {
+        "alpha2": "ko",
+        "alpha3": "kor"
+      }
+    ]
+  },
+  {
+    "alpha2": "KR",
+    "shortName": "KOREA, REPUBLIC OF",
+    "shortNameLowerCase": "Korea (the Republic of)",
+    "fullName": "the Republic of Korea",
+    "alpha3": "KOR",
+    "numeric": "410",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "Often referred to as South Korea.",
+    "languages": [
+      {
+        "alpha2": "ko",
+        "alpha3": "kor"
+      }
+    ]
+  },
+  {
+    "alpha2": "KW",
+    "shortName": "KUWAIT",
+    "shortNameLowerCase": "Kuwait",
+    "fullName": "the State of Kuwait",
+    "alpha3": "KWT",
+    "numeric": "414",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2": "KY",
+    "shortName": "CAYMAN ISLANDS",
+    "shortNameLowerCase": "Cayman Islands (the)",
+    "fullName": "",
+    "alpha3": "CYM",
+    "numeric": "136",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Grand Cayman",
+    "status": "Officially assigned",
+    "remark1": "Principal island: Grand Cayman.",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "KZ",
+    "shortName": "KAZAKHSTAN",
+    "shortNameLowerCase": "Kazakhstan",
+    "fullName": "the Republic of Kazakhstan",
+    "alpha3": "KAZ",
+    "numeric": "398",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark3": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "languages": [
+      {
+        "alpha2": "kk",
+        "alpha3": "kaz"
+      },
+      {
+        "alpha2": "ru",
+        "alpha3": "rus"
+      }
+    ]
+  },
+  {
+    "alpha2": "LA",
+    "shortName": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "shortNameLowerCase": "Lao People's Democratic Republic (the)",
+    "fullName": "the Lao People's Democratic Republic",
+    "alpha3": "LAO",
+    "numeric": "418",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "Also referred to as Laos.",
+    "languages": [
+      {
+        "alpha2": "lo",
+        "alpha3": "lao"
+      }
+    ]
+  },
+  {
+    "alpha2": "LB",
+    "shortName": "LEBANON",
+    "shortNameLowerCase": "Lebanon",
+    "fullName": "the Lebanese Republic",
+    "alpha3": "LBN",
+    "numeric": "422",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2": "LC",
+    "shortName": "SAINT LUCIA",
+    "shortNameLowerCase": "Saint Lucia",
+    "fullName": "",
+    "alpha3": "LCA",
+    "numeric": "662",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "LI",
+    "shortName": "LIECHTENSTEIN",
+    "shortNameLowerCase": "Liechtenstein",
+    "fullName": "the Principality of Liechtenstein",
+    "alpha3": "LIE",
+    "numeric": "438",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "de",
+        "alpha3": "deu"
+      }
+    ]
+  },
+  {
+    "alpha2": "LK",
+    "shortName": "SRI LANKA",
+    "shortNameLowerCase": "Sri Lanka",
+    "fullName": "the Democratic Socialist Republic of Sri Lanka",
+    "alpha3": "LKA",
+    "numeric": "144",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "si",
+        "alpha3": "sin"
+      },
+      {
+        "alpha2": "ta",
+        "alpha3": "tam"
+      }
+    ]
+  },
+  {
+    "alpha2": "LR",
+    "shortName": "LIBERIA",
+    "shortNameLowerCase": "Liberia",
+    "fullName": "the Republic of Liberia",
+    "alpha3": "LBR",
+    "numeric": "430",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "LS",
+    "shortName": "LESOTHO",
+    "shortNameLowerCase": "Lesotho",
+    "fullName": "the Kingdom of Lesotho",
+    "alpha3": "LSO",
+    "numeric": "426",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "st",
+        "alpha3": "sot"
+      }
+    ]
+  },
+  {
+    "alpha2": "LT",
+    "shortName": "LITHUANIA",
+    "shortNameLowerCase": "Lithuania",
+    "fullName": "the Republic of Lithuania",
+    "alpha3": "LTU",
+    "numeric": "440",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark3": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "languages": [
+      {
+        "alpha2": "lt",
+        "alpha3": "lit"
+      }
+    ]
+  },
+  {
+    "alpha2": "LU",
+    "shortName": "LUXEMBOURG",
+    "shortNameLowerCase": "Luxembourg",
+    "fullName": "the Grand Duchy of Luxembourg",
+    "alpha3": "LUX",
+    "numeric": "442",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "de",
+        "alpha3": "deu"
+      },
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      },
+      {
+        "alpha2": "lb",
+        "alpha3": "ltz"
+      }
+    ]
+  },
+  {
+    "alpha2": "LV",
+    "shortName": "LATVIA",
+    "shortNameLowerCase": "Latvia",
+    "fullName": "the Republic of Latvia",
+    "alpha3": "LVA",
+    "numeric": "428",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark3": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "languages": [
+      {
+        "alpha2": "lv",
+        "alpha3": "lav"
+      }
+    ]
+  },
+  {
+    "alpha2": "LY",
+    "shortName": "LIBYA",
+    "shortNameLowerCase": "Libya",
+    "fullName": "the State of Libya",
+    "alpha3": "LBY",
+    "numeric": "434",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2": "MA",
+    "shortName": "MOROCCO",
+    "shortNameLowerCase": "Morocco",
+    "fullName": "the Kingdom of Morocco",
+    "alpha3": "MAR",
+    "numeric": "504",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "Remark: Entries followed by \"(EH)\" are located partially or fully in the territory of Western Sahara (ISO 3166 alpha-2 code element EH).",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2": "MC",
+    "shortName": "MONACO",
+    "shortNameLowerCase": "Monaco",
+    "fullName": "the Principality of Monaco",
+    "alpha3": "MCO",
+    "numeric": "492",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "MD",
+    "shortName": "MOLDOVA, REPUBLIC OF",
+    "shortNameLowerCase": "Moldova (the Republic of)",
+    "fullName": "the Republic of Moldova",
+    "alpha3": "MDA",
+    "numeric": "498",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark3": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "languages": [
+      {
+        "alpha2": "ro",
+        "alpha3": "ron"
+      }
+    ]
+  },
+  {
+    "alpha2": "ME",
+    "shortName": "MONTENEGRO",
+    "shortNameLowerCase": "Montenegro",
+    "fullName": "",
+    "alpha3": "MNE",
+    "numeric": "499",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "Montenegro was formerly part of former entries: YUGOSLAVIA (YU, YUG, 891) then SERBIA AND MONTENEGRO (CS, SCG, 891).",
+    "remark3": "Serbia and Montenegro (CS, SCG, 891) was divided into Serbia (RS, SRB, 688) and Montenegro (ME, MNE, 499). See also code element CSXX.",
+    "languages": [
+      {
+        "alpha2": "-",
+        "alpha3": "cnr"
+      }
+    ]
+  },
+  {
+    "alpha2": "MF",
+    "shortName": "SAINT MARTIN (FRENCH PART)",
+    "shortNameLowerCase": "Saint Martin (French part)",
+    "fullName": "",
+    "alpha3": "MAF",
+    "numeric": "663",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "The island of Saint Martin is divided into the northern French part and the southern Dutch part.",
+    "remark2": "No subdivisions relevant for this standard. Included also as subdivision of France (FR-MF).",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "MG",
+    "shortName": "MADAGASCAR",
+    "shortNameLowerCase": "Madagascar",
+    "fullName": "the Republic of Madagascar",
+    "alpha3": "MDG",
+    "numeric": "450",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      },
+      {
+        "alpha2": "mg",
+        "alpha3": "mlg"
+      }
+    ]
+  },
+  {
+    "alpha2": "MH",
+    "shortName": "MARSHALL ISLANDS",
+    "shortNameLowerCase": "Marshall Islands (the)",
+    "fullName": "the Republic of the Marshall Islands",
+    "alpha3": "MHL",
+    "numeric": "584",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Jaluit, Kwajalein, Majuro",
+    "status": "Officially assigned",
+    "remark1": "Principal atolls: Jaluit, Kwajalein, Majuro.",
+    "remark3": "Pacific Islands (Trust Territory) (PC, PCI, 582) were divided into: Marshall Islands, Federated States of Micronesia (FM, FSM, 583), Northern Mariana Islands (MP, MNP, 580) and Palau (PW, PLW, 585). See also code element PCHH.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "mh",
+        "alpha3": "mah"
+      }
+    ]
+  },
+  {
+    "alpha2": "MK",
+    "shortName": "NORTH MACEDONIA",
+    "shortNameLowerCase": "North Macedonia",
+    "fullName": "the Republic of North Macedonia",
+    "alpha3": "MKD",
+    "numeric": "807",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "remark3": "Formerly part of Yugoslavia  (YU, YUG, 891) before its split. See code element YUCS.",
+    "languages": [
+      {
+        "alpha2": "mk",
+        "alpha3": "mkd"
+      }
+    ]
+  },
+  {
+    "alpha2": "ML",
+    "shortName": "MALI",
+    "shortNameLowerCase": "Mali",
+    "fullName": "the Republic of Mali",
+    "alpha3": "MLI",
+    "numeric": "466",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "MM",
+    "shortName": "MYANMAR",
+    "shortNameLowerCase": "Myanmar",
+    "fullName": "the Republic of the Union of Myanmar",
+    "alpha3": "MMR",
+    "numeric": "104",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "Remark: the forms used in the list are English-language forms provided by Myanmar.",
+    "remark3": "Name changed from former Burma (BU, BUR, 104) to Myanmar (MM MMR, 104). See code element BUMM.",
+    "languages": [
+      {
+        "alpha2": "my",
+        "alpha3": "mya"
+      }
+    ]
+  },
+  {
+    "alpha2": "MN",
+    "shortName": "MONGOLIA",
+    "shortNameLowerCase": "Mongolia",
+    "fullName": "",
+    "alpha3": "MNG",
+    "numeric": "496",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "mn",
+        "alpha3": "mon"
+      }
+    ]
+  },
+  {
+    "alpha2": "MO",
+    "shortName": "MACAO",
+    "shortNameLowerCase": "Macao",
+    "fullName": "Macao Special Administrative Region of China",
+    "alpha3": "MAC",
+    "numeric": "446",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "Subdivision in 2 districts, distrito (pt), which is not relevant for this part of ISO 3166. Included also as a subdivision of China (CN-MO).",
+    "languages": [
+      {
+        "alpha2": "pt",
+        "alpha3": "por"
+      },
+      {
+        "alpha2": "zh",
+        "alpha3": "zho"
+      }
+    ]
+  },
+  {
+    "alpha2": "MP",
+    "shortName": "NORTHERN MARIANA ISLANDS",
+    "shortNameLowerCase": "Northern Mariana Islands (the)",
+    "fullName": "the Commonwealth of the Northern Mariana Islands",
+    "alpha3": "MNP",
+    "numeric": "580",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Mariana Islands (except GUAM), Saipan (principal island)",
+    "status": "Officially assigned",
+    "remark1": "Comprises: Mariana Islands (except GUAM, see separate entry). (Principal island: Saipan).",
+    "remark2": "No subdivisions relevant for this standard. Included also as a subdivision of the United States (US-MP).",
+    "remark3": "Pacific Islands (Trust Territory) (PC, PCI, 582) were divided into: Marshall Islands (MH, MHL, 584), Federated States of Micronesia (FM, FSM, 583), Northern Mariana Islands, and Palau (PW, PLW, 585).",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "MQ",
+    "shortName": "MARTINIQUE",
+    "shortNameLowerCase": "Martinique",
+    "fullName": "",
+    "alpha3": "MTQ",
+    "numeric": "474",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard. Included also as a subdivision of France (FR-MQ).",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "MR",
+    "shortName": "MAURITANIA",
+    "shortNameLowerCase": "Mauritania",
+    "fullName": "the Islamic Republic of Mauritania",
+    "alpha3": "MRT",
+    "numeric": "478",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2": "MS",
+    "shortName": "MONTSERRAT",
+    "shortNameLowerCase": "Montserrat",
+    "fullName": "",
+    "alpha3": "MSR",
+    "numeric": "500",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "MT",
+    "shortName": "MALTA",
+    "shortNameLowerCase": "Malta",
+    "fullName": "the Republic of Malta",
+    "alpha3": "MLT",
+    "numeric": "470",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "mt",
+        "alpha3": "mlt"
+      }
+    ]
+  },
+  {
+    "alpha2": "MU",
+    "shortName": "MAURITIUS",
+    "shortNameLowerCase": "Mauritius",
+    "fullName": "the Republic of Mauritius",
+    "alpha3": "MUS",
+    "numeric": "480",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Agalega Islands, Cargados Carajos Shoals, Rodrigues Island",
+    "status": "Officially assigned",
+    "remark1": "Includes: Agalega Islands, Cargados Carajos Shoals, Rodrigues Island.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "MV",
+    "shortName": "MALDIVES",
+    "shortNameLowerCase": "Maldives",
+    "fullName": "the Republic of Maldives",
+    "alpha3": "MDV",
+    "numeric": "462",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "dv",
+        "alpha3": "div"
+      }
+    ]
+  },
+  {
+    "alpha2": "MW",
+    "shortName": "MALAWI",
+    "shortNameLowerCase": "Malawi",
+    "fullName": "the Republic of Malawi",
+    "alpha3": "MWI",
+    "numeric": "454",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "ny",
+        "alpha3": "nya"
+      }
+    ]
+  },
+  {
+    "alpha2": "MX",
+    "shortName": "MEXICO",
+    "shortNameLowerCase": "Mexico",
+    "fullName": "the United Mexican States",
+    "alpha3": "MEX",
+    "numeric": "484",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "languages": [
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "MY",
+    "shortName": "MALAYSIA",
+    "shortNameLowerCase": "Malaysia",
+    "fullName": "",
+    "alpha3": "MYS",
+    "numeric": "458",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Peninsular Malaysia, Sabah, Sarawak",
+    "status": "Officially assigned",
+    "remark1": "Comprises: Peninsular Malaysia, Sabah, Sarawak.",
+    "languages": [
+      {
+        "alpha2": "ms",
+        "alpha3": "msa"
+      }
+    ]
+  },
+  {
+    "alpha2": "MZ",
+    "shortName": "MOZAMBIQUE",
+    "shortNameLowerCase": "Mozambique",
+    "fullName": "the Republic of Mozambique",
+    "alpha3": "MOZ",
+    "numeric": "508",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "pt",
+        "alpha3": "por"
+      }
+    ]
+  },
+  {
+    "alpha2": "NA",
+    "shortName": "NAMIBIA",
+    "shortNameLowerCase": "Namibia",
+    "fullName": "the Republic of Namibia",
+    "alpha3": "NAM",
+    "numeric": "516",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "NC",
+    "shortName": "NEW CALEDONIA",
+    "shortNameLowerCase": "New Caledonia",
+    "fullName": "",
+    "alpha3": "NCL",
+    "numeric": "540",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Loyalty Islands",
+    "status": "Officially assigned",
+    "remark1": "Includes: Loyalty Islands.",
+    "remark2": "No subdivisions relevant for this standard. Included also as a subdivision of France (FR-NC).",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "NE",
+    "shortName": "NIGER",
+    "shortNameLowerCase": "Niger (the)",
+    "fullName": "the Republic of the Niger",
+    "alpha3": "NER",
+    "numeric": "562",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "NF",
+    "shortName": "NORFOLK ISLAND",
+    "shortNameLowerCase": "Norfolk Island",
+    "fullName": "",
+    "alpha3": "NFK",
+    "numeric": "574",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "NG",
+    "shortName": "NIGERIA",
+    "shortNameLowerCase": "Nigeria",
+    "fullName": "the Federal Republic of Nigeria",
+    "alpha3": "NGA",
+    "numeric": "566",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "NI",
+    "shortName": "NICARAGUA",
+    "shortNameLowerCase": "Nicaragua",
+    "fullName": "the Republic of Nicaragua",
+    "alpha3": "NIC",
+    "numeric": "558",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "NL",
+    "shortName": "NETHERLANDS",
+    "shortNameLowerCase": "Netherlands (the)",
+    "fullName": "the Kingdom of the Netherlands",
+    "alpha3": "NLD",
+    "numeric": "528",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "statusRemark": "Includes: the islands Bonaire, Saint Eustatius and Saba",
+    "remark1": "Includes: the islands Bonaire, Sint Eustatius and Saba.",
+    "languages": [
+      {
+        "alpha2": "nl",
+        "alpha3": "nld"
+      }
+    ]
+  },
+  {
+    "alpha2": "NO",
+    "shortName": "NORWAY",
+    "shortNameLowerCase": "Norway",
+    "fullName": "the Kingdom of Norway",
+    "alpha3": "NOR",
+    "numeric": "578",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "nn",
+        "alpha3": "nno"
+      },
+      {
+        "alpha2": "nb",
+        "alpha3": "nob"
+      }
+    ]
+  },
+  {
+    "alpha2": "NP",
+    "shortName": "NEPAL",
+    "shortNameLowerCase": "Nepal",
+    "fullName": "the Federal Democratic Republic of Nepal",
+    "alpha3": "NPL",
+    "numeric": "524",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "In September 2015 Nepal created a new federal structure consisting of 7 provinces. Until now only two of these provinces have names. The rest are identified by numbers only. These provinces should replace the zones and development regions but this has not yet been fully implemented.",
+    "languages": [
+      {
+        "alpha2": "ne",
+        "alpha3": "nep"
+      }
+    ]
+  },
+  {
+    "alpha2": "NR",
+    "shortName": "NAURU",
+    "shortNameLowerCase": "Nauru",
+    "fullName": "the Republic of Nauru",
+    "alpha3": "NRU",
+    "numeric": "520",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "na",
+        "alpha3": "nau"
+      }
+    ]
+  },
+  {
+    "alpha2": "NU",
+    "shortName": "NIUE",
+    "shortNameLowerCase": "Niue",
+    "fullName": "",
+    "alpha3": "NIU",
+    "numeric": "570",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "-",
+        "alpha3": "niu"
+      }
+    ]
+  },
+  {
+    "alpha2": "NZ",
+    "shortName": "NEW ZEALAND",
+    "shortNameLowerCase": "New Zealand",
+    "fullName": "",
+    "alpha3": "NZL",
+    "numeric": "554",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Antipodes Islands, Auckland Islands, Campbell Island, Chatham Islands, Kermadec Islands",
+    "status": "Officially assigned",
+    "remark1": "Includes: Antipodes Islands, Auckland Islands, Campbell Island, Chatham Islands, Kermadec Islands.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "mi",
+        "alpha3": "mri"
+      }
+    ]
+  },
+  {
+    "alpha2": "OM",
+    "shortName": "OMAN",
+    "shortNameLowerCase": "Oman",
+    "fullName": "the Sultanate of Oman",
+    "alpha3": "OMN",
+    "numeric": "512",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "part of the Musandam Peninsula",
+    "status": "Officially assigned",
+    "remark1": "Includes: part of the Musandam Peninsula.",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2": "PA",
+    "shortName": "PANAMA",
+    "shortNameLowerCase": "Panama",
+    "fullName": "the Republic of Panama",
+    "alpha3": "PAN",
+    "numeric": "591",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark3": "The Zone of the Panama Canal (PZ, PCZ, --) is now part of the entry for Panama (PA, PAN, 591). See also code element PZPA.",
+    "languages": [
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "PE",
+    "shortName": "PERU",
+    "shortNameLowerCase": "Peru",
+    "fullName": "the Republic of Peru",
+    "alpha3": "PER",
+    "numeric": "604",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "ay",
+        "alpha3": "aym"
+      },
+      {
+        "alpha2": "qu",
+        "alpha3": "que"
+      },
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "PF",
+    "shortName": "FRENCH POLYNESIA",
+    "shortNameLowerCase": "French Polynesia",
+    "fullName": "",
+    "alpha3": "PYF",
+    "numeric": "258",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Austral Islands , Gambier Islands, Marquesas Islands , Society Archipelago , Tahiti, Tuamotu Islands",
+    "status": "Officially assigned",
+    "remark1": "Comprises: Austral Islands, Gambier Islands, Marquesas Islands, Society Archipelago (Principal island: Tahiti), Tuamotu Islands.",
+    "remark2": "No subdivisions relevant for this standard. Included also as a subdivision of France (FR-PF).",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "PG",
+    "shortName": "PAPUA NEW GUINEA",
+    "shortNameLowerCase": "Papua New Guinea",
+    "fullName": "the Independent State of Papua New Guinea",
+    "alpha3": "PNG",
+    "numeric": "598",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Bismarck Archipelago, Bougainville (principal island), Solomon Islands, Northern",
+    "status": "Officially assigned",
+    "remark1": "Includes: Bismarck Archipelago, Northern Solomon Islands (Principal island: Bougainville).",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "ho",
+        "alpha3": "hmo"
+      },
+      {
+        "alpha2": "-",
+        "alpha3": "tpi"
+      }
+    ]
+  },
+  {
+    "alpha2": "PH",
+    "shortName": "PHILIPPINES",
+    "shortNameLowerCase": "Philippines (the)",
+    "fullName": "the Republic of the Philippines",
+    "alpha3": "PHL",
+    "numeric": "608",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "tl",
+        "alpha3": "tgl"
+      }
+    ]
+  },
+  {
+    "alpha2": "PK",
+    "shortName": "PAKISTAN",
+    "shortNameLowerCase": "Pakistan",
+    "fullName": "the Islamic Republic of Pakistan",
+    "alpha3": "PAK",
+    "numeric": "586",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "ur",
+        "alpha3": "urd"
+      }
+    ]
+  },
+  {
+    "alpha2": "PL",
+    "shortName": "POLAND",
+    "shortNameLowerCase": "Poland",
+    "fullName": "the Republic of Poland",
+    "alpha3": "POL",
+    "numeric": "616",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "pl",
+        "alpha3": "pol"
+      }
+    ]
+  },
+  {
+    "alpha2": "PM",
+    "shortName": "SAINT PIERRE AND MIQUELON",
+    "shortNameLowerCase": "Saint Pierre and Miquelon",
+    "fullName": "",
+    "alpha3": "SPM",
+    "numeric": "666",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Miquelon *",
+    "status": "Officially assigned",
+    "remark1": "Miquelon * is the second significant part of composite country name.",
+    "remark2": "No subdivisions relevant for this standard. Included also as a subdivision of France (FR-PM).",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "PN",
+    "shortName": "PITCAIRN",
+    "shortNameLowerCase": "Pitcairn",
+    "fullName": "",
+    "alpha3": "PCN",
+    "numeric": "612",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Ducie Island, Henderson Island, Oeno Island",
+    "status": "Officially assigned",
+    "remark1": "Includes: Ducie Island, Henderson Island, Oeno Island.",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "PR",
+    "shortName": "PUERTO RICO",
+    "shortNameLowerCase": "Puerto Rico",
+    "fullName": "",
+    "alpha3": "PRI",
+    "numeric": "630",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard. Included also as a subdivision of the United States (US-PR).",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "PS",
+    "shortName": "PALESTINE, STATE OF",
+    "shortNameLowerCase": "Palestine, State of",
+    "fullName": "the State of Palestine",
+    "alpha3": "PSE",
+    "numeric": "275",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "remark2": "Remark: Conventional names.",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2": "PT",
+    "shortName": "PORTUGAL",
+    "shortNameLowerCase": "Portugal",
+    "fullName": "the Portuguese Republic",
+    "alpha3": "PRT",
+    "numeric": "620",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "pt",
+        "alpha3": "por"
+      }
+    ]
+  },
+  {
+    "alpha2": "PW",
+    "shortName": "PALAU",
+    "shortNameLowerCase": "Palau",
+    "fullName": "the Republic of Palau",
+    "alpha3": "PLW",
+    "numeric": "585",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Babelthuap (principal island), the west part of the Caroline Islands",
+    "status": "Officially assigned",
+    "remark1": "Comprises: the west part of the Caroline Islands (Principal island: Babelthuap).",
+    "remark3": "Pacific Islands (Trust Territory) (PC, PCI, 582) were divided into: Marshall Islands (MH, MHL, 584), Federated States of Micronesia (FM, FSM, 583), Northern Mariana Islands (MP, MNP, 580) and Palau. See also code element PCHH.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "-",
+        "alpha3": "pau"
+      }
+    ]
+  },
+  {
+    "alpha2": "PY",
+    "shortName": "PARAGUAY",
+    "shortNameLowerCase": "Paraguay",
+    "fullName": "the Republic of Paraguay",
+    "alpha3": "PRY",
+    "numeric": "600",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "gn",
+        "alpha3": "grn"
+      },
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "QA",
+    "shortName": "QATAR",
+    "shortNameLowerCase": "Qatar",
+    "fullName": "the State of Qatar",
+    "alpha3": "QAT",
+    "numeric": "634",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2": "RE",
+    "shortName": "RÉUNION",
+    "shortNameLowerCase": "Réunion",
+    "fullName": "",
+    "alpha3": "REU",
+    "numeric": "638",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard. Included also as a subdivision of France (FR-RE).",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "RO",
+    "shortName": "ROMANIA",
+    "shortNameLowerCase": "Romania",
+    "fullName": "",
+    "alpha3": "ROU",
+    "numeric": "642",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "ro",
+        "alpha3": "ron"
+      }
+    ]
+  },
+  {
+    "alpha2": "RS",
+    "shortName": "SERBIA",
+    "shortNameLowerCase": "Serbia",
+    "fullName": "the Republic of Serbia",
+    "alpha3": "SRB",
+    "numeric": "688",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "Serbia was formerly part of former entries: YUGOSLAVIA (YU, YUG, 891) then SERBIA AND MONTENEGRO (CS, SCG, 891).",
+    "remark3": "Serbia and Montenegro (CS, SCG, 891) was divided into Serbia (RS, SRB, 688), and Montenegro (ME, MNE, 499). See code element CSXX.",
+    "languages": [
+      {
+        "alpha2": "sr",
+        "alpha3": "srp"
+      }
+    ]
+  },
+  {
+    "alpha2": "RU",
+    "shortName": "RUSSIAN FEDERATION",
+    "shortNameLowerCase": "Russian Federation (the)",
+    "fullName": "the Russian Federation",
+    "alpha3": "RUS",
+    "numeric": "643",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Kaliningrad Region",
+    "status": "Officially assigned",
+    "remark1": "Includes: the Kaliningrad Region.",
+    "remark3": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "languages": [
+      {
+        "alpha2": "ru",
+        "alpha3": "rus"
+      }
+    ]
+  },
+  {
+    "alpha2": "RW",
+    "shortName": "RWANDA",
+    "shortNameLowerCase": "Rwanda",
+    "fullName": "the Republic of Rwanda",
+    "alpha3": "RWA",
+    "numeric": "646",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      },
+      {
+        "alpha2": "rw",
+        "alpha3": "kin"
+      }
+    ]
+  },
+  {
+    "alpha2": "SA",
+    "shortName": "SAUDI ARABIA",
+    "shortNameLowerCase": "Saudi Arabia",
+    "fullName": "the Kingdom of Saudi Arabia",
+    "alpha3": "SAU",
+    "numeric": "682",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark3": "The Neutral Zone (NT, NTZ, 536) was divided and is now part of Iraq (IQ, IRQ, 368) and part of Saudi Arabia (SA, SAU, 682). The code entry (NT, NTZ,  536) was deleted from ISO 3166-1. See also code elelement NTHH.",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2": "SB",
+    "shortName": "SOLOMON ISLANDS",
+    "shortNameLowerCase": "Solomon Islands",
+    "fullName": "",
+    "alpha3": "SLB",
+    "numeric": "090",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Guadalcanal (principal island), Southern Solomon Islands, Santa Cruz Islands",
+    "status": "Officially assigned",
+    "remark1": "Comprises: Santa Cruz Islands, Southern Solomon Islands (Principal island: Guadalcanal).",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "SC",
+    "shortName": "SEYCHELLES",
+    "shortNameLowerCase": "Seychelles",
+    "fullName": "the Republic of Seychelles",
+    "alpha3": "SYC",
+    "numeric": "690",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Cosmoledo Islands, Farquhar Islands, Mahé (principal island), Aldabra Islands, Amirante Islands",
+    "status": "Officially assigned",
+    "remark1": "Principal island: Mahé; includes Aldabra Islands, Amirante Islands, Cosmoledo Islands, Farquhar Islands.",
+    "languages": [
+      {
+        "alpha2": "-",
+        "alpha3": "crs"
+      },
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "SD",
+    "shortName": "SUDAN",
+    "shortNameLowerCase": "Sudan (the)",
+    "fullName": "the Republic of the Sudan",
+    "alpha3": "SDN",
+    "numeric": "729",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "Split of Sudan into Sudan (north part) and South Sudan (south part).",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2": "SE",
+    "shortName": "SWEDEN",
+    "shortNameLowerCase": "Sweden",
+    "fullName": "the Kingdom of Sweden",
+    "alpha3": "SWE",
+    "numeric": "752",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "Remark: Alphabetic and numeric codes co-exist. The alphabetic code is traditionally well known to the general public, whereas the numeric code (placed after the name within square brackets) is used mainly within national administration; it may in the longer term supersede the alphabetic code.",
+    "languages": [
+      {
+        "alpha2": "sv",
+        "alpha3": "swe"
+      }
+    ]
+  },
+  {
+    "alpha2": "SG",
+    "shortName": "SINGAPORE",
+    "shortNameLowerCase": "Singapore",
+    "fullName": "the Republic of Singapore",
+    "alpha3": "SGP",
+    "numeric": "702",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "ms",
+        "alpha3": "msa"
+      },
+      {
+        "alpha2": "ta",
+        "alpha3": "tam"
+      },
+      {
+        "alpha2": "zh",
+        "alpha3": "zho"
+      }
+    ]
+  },
+  {
+    "alpha2": "SH",
+    "shortName": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+    "shortNameLowerCase": "Saint Helena, Ascension and Tristan da Cunha",
+    "fullName": "",
+    "alpha3": "SHN",
+    "numeric": "654",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Ascension Island, Gough Island, Inaccessible Island, Nightingale Island, Saint Helena Island , Stoltenhoff Island, Tristan da Cunha Archipelago",
+    "status": "Officially assigned",
+    "remark1": "Comprises: Saint Helena Island, Ascension Island, Tristan da Cunha Archipelago (Gough Island, Inaccessible Island, Nightingale Island and Stoltenhoff Island).",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "SI",
+    "shortName": "SLOVENIA",
+    "shortNameLowerCase": "Slovenia",
+    "fullName": "the Republic of Slovenia",
+    "alpha3": "SVN",
+    "numeric": "705",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark3": "Formerly part of Yougoslavia  (YU, YUG, 891) before its split. See code element YUCS.",
+    "languages": [
+      {
+        "alpha2": "sl",
+        "alpha3": "slv"
+      }
+    ]
+  },
+  {
+    "alpha2": "SJ",
+    "shortName": "SVALBARD AND JAN MAYEN",
+    "shortNameLowerCase": "Svalbard and Jan Mayen",
+    "fullName": "",
+    "alpha3": "SJM",
+    "numeric": "744",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Bear Island , Jan Mayen",
+    "status": "Officially assigned",
+    "remark1": "Includes: Bear Island.",
+    "remark2": "No subdivisions relevant for this standard. Included also as a subdivision of Norway (NO-21, NO-22).",
+    "languages": [
+      {
+        "alpha2": "nn",
+        "alpha3": "nno"
+      },
+      {
+        "alpha2": "nb",
+        "alpha3": "nob"
+      }
+    ]
+  },
+  {
+    "alpha2": "SK",
+    "shortName": "SLOVAKIA",
+    "shortNameLowerCase": "Slovakia",
+    "fullName": "the Slovak Republic",
+    "alpha3": "SVK",
+    "numeric": "703",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "Code element SK was formerly used for Sikkim (SK, SKM, --), now part of the entry for India (IN, IND, 356), was reused for Slovakia. See aslo code element SKIN.",
+    "remark3": "Czechoslovakia (CS, CSK, 200) was divided into Czechia (CZ, CZE, 203), and Slovakia (SK, SVK, 703). See also code element CSHH.",
+    "languages": [
+      {
+        "alpha2": "sk",
+        "alpha3": "slk"
+      }
+    ]
+  },
+  {
+    "alpha2": "SL",
+    "shortName": "SIERRA LEONE",
+    "shortNameLowerCase": "Sierra Leone",
+    "fullName": "the Republic of Sierra Leone",
+    "alpha3": "SLE",
+    "numeric": "694",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "SM",
+    "shortName": "SAN MARINO",
+    "shortNameLowerCase": "San Marino",
+    "fullName": "the Republic of San Marino",
+    "alpha3": "SMR",
+    "numeric": "674",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "it",
+        "alpha3": "ita"
+      }
+    ]
+  },
+  {
+    "alpha2": "SN",
+    "shortName": "SENEGAL",
+    "shortNameLowerCase": "Senegal",
+    "fullName": "the Republic of Senegal",
+    "alpha3": "SEN",
+    "numeric": "686",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "SO",
+    "shortName": "SOMALIA",
+    "shortNameLowerCase": "Somalia",
+    "fullName": "the Federal Republic of Somalia",
+    "alpha3": "SOM",
+    "numeric": "706",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      },
+      {
+        "alpha2": "so",
+        "alpha3": "som"
+      }
+    ]
+  },
+  {
+    "alpha2": "SR",
+    "shortName": "SURINAME",
+    "shortNameLowerCase": "Suriname",
+    "fullName": "the Republic of Suriname",
+    "alpha3": "SUR",
+    "numeric": "740",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "nl",
+        "alpha3": "nld"
+      }
+    ]
+  },
+  {
+    "alpha2": "SS",
+    "shortName": "SOUTH SUDAN",
+    "shortNameLowerCase": "South Sudan",
+    "fullName": "the Republic of South Sudan",
+    "alpha3": "SSD",
+    "numeric": "728",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "Split of Sudan into Sudan (north part) and South Sudan (south part).",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "ST",
+    "shortName": "SAO TOME AND PRINCIPE",
+    "shortNameLowerCase": "Sao Tome and Principe",
+    "fullName": "the Democratic Republic of Sao Tome and Principe",
+    "alpha3": "STP",
+    "numeric": "678",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Principe *",
+    "status": "Officially assigned",
+    "remark1": "Príncipe* is the second significant part of composite country name.",
+    "languages": [
+      {
+        "alpha2": "pt",
+        "alpha3": "por"
+      }
+    ]
+  },
+  {
+    "alpha2": "SV",
+    "shortName": "EL SALVADOR",
+    "shortNameLowerCase": "El Salvador",
+    "fullName": "the Republic of El Salvador",
+    "alpha3": "SLV",
+    "numeric": "222",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "languages": [
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "SX",
+    "shortName": "SINT MAARTEN (DUTCH PART)",
+    "shortNameLowerCase": "Sint Maarten (Dutch part)",
+    "fullName": "",
+    "alpha3": "SXM",
+    "numeric": "534",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "statusRemark": "The island of Saint Martin is divided into the French northern part and the Dutch southern part",
+    "remark1": "The island of Saint Martin is divided into the northern French part and the southern Dutch part.",
+    "remark2": "No subdivisions relevant for this standard. Included also as subdivision of Netherlands (NL-SX).",
+    "remark3": "The Netherlands Antilles (AN, ANT, 530) was divided into Bonaire, Saint Eustatius and Saba (BQ, BES, 535), Curaçao (CW, CUW, 531) and Sint Maarten (Dutch part) (SX, SXM, 534). See also code element ANHH.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "nl",
+        "alpha3": "nld"
+      }
+    ]
+  },
+  {
+    "alpha2": "SY",
+    "shortName": "SYRIAN ARAB REPUBLIC",
+    "shortNameLowerCase": "Syrian Arab Republic (the)",
+    "fullName": "the Syrian Arab Republic",
+    "alpha3": "SYR",
+    "numeric": "760",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "Often referred to as Syria.",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2": "SZ",
+    "shortName": "ESWATINI",
+    "shortNameLowerCase": "Eswatini",
+    "fullName": "the Kingdom of Eswatini",
+    "alpha3": "SWZ",
+    "numeric": "748",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "ss",
+        "alpha3": "ssw"
+      }
+    ]
+  },
+  {
+    "alpha2": "TC",
+    "shortName": "TURKS AND CAICOS ISLANDS",
+    "shortNameLowerCase": "Turks and Caicos Islands (the)",
+    "fullName": "",
+    "alpha3": "TCA",
+    "numeric": "796",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Caicos Islands",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "TD",
+    "shortName": "CHAD",
+    "shortNameLowerCase": "Chad",
+    "fullName": "the Republic of Chad",
+    "alpha3": "TCD",
+    "numeric": "148",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      },
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "TF",
+    "shortName": "FRENCH SOUTHERN TERRITORIES",
+    "shortNameLowerCase": "French Southern Territories (the)",
+    "fullName": "",
+    "alpha3": "ATF",
+    "numeric": "260",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Bassas da India, Crozet Archipelago, French scattered Indian Ocean Islands, Europa Island, Glorioso Islands , Juan de Nova Island, Kerguelen Islands, Saint-Paul Island, Tromelin Island, Amsterdam Island",
+    "status": "Officially assigned",
+    "remark1": "Comprises: Amsterdam Island, Crozet Archipelago, Kerguelen Islands, Saint Paul Island and French scattered Indian Ocean Islands formed by Bassas da India, Europa Island, Glorioso Islands, Juan de Nova Island and Tromelin Island.",
+    "remark2": "No subdivisions relevant for this standard. Included also as subdivision of France (FR-TF).",
+    "remark3": "French Southern and Antarctic Territories (FQ, ATF, --) now part of Antarctica (AQ, ATA, 010) and French Southern Territories. See also code element FQHH.",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "TG",
+    "shortName": "TOGO",
+    "shortNameLowerCase": "Togo",
+    "fullName": "the Togolese Republic",
+    "alpha3": "TGO",
+    "numeric": "768",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "TH",
+    "shortName": "THAILAND",
+    "shortNameLowerCase": "Thailand",
+    "fullName": "the Kingdom of Thailand",
+    "alpha3": "THA",
+    "numeric": "764",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "th",
+        "alpha3": "tha"
+      }
+    ]
+  },
+  {
+    "alpha2": "TJ",
+    "shortName": "TAJIKISTAN",
+    "shortNameLowerCase": "Tajikistan",
+    "fullName": "the Republic of Tajikistan",
+    "alpha3": "TJK",
+    "numeric": "762",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "Remark: The deletion of the region Karategin left one part of the country without name and without code in this part of ISO 3166. This section of the country is designated districts under republic administration (tgk: nohiyahoi tobei jumhurí) and comprises 13 districts (tgk: nohiya) which are administered directly by the central government at first-order level.",
+    "remark3": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "languages": [
+      {
+        "alpha2": "tg",
+        "alpha3": "tgk"
+      }
+    ]
+  },
+  {
+    "alpha2": "TK",
+    "shortName": "TOKELAU",
+    "shortNameLowerCase": "Tokelau",
+    "fullName": "",
+    "alpha3": "TKL",
+    "numeric": "772",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "-",
+        "alpha3": "tkl"
+      }
+    ]
+  },
+  {
+    "alpha2": "TL",
+    "shortName": "TIMOR-LESTE",
+    "shortNameLowerCase": "Timor-Leste",
+    "fullName": "the Democratic Republic of Timor-Leste",
+    "alpha3": "TLS",
+    "numeric": "626",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "the exclave of Oecussi",
+    "status": "Officially assigned",
+    "remark1": "Includes the exclave of Oecussi.",
+    "remark3": "Name changed from East Timor (TP, TMP, 626) to Timor-Leste. See also code entry TPTL.",
+    "languages": [
+      {
+        "alpha2": "pt",
+        "alpha3": "por"
+      },
+      {
+        "alpha2": "-",
+        "alpha3": "tet"
+      }
+    ]
+  },
+  {
+    "alpha2": "TM",
+    "shortName": "TURKMENISTAN",
+    "shortNameLowerCase": "Turkmenistan",
+    "fullName": "",
+    "alpha3": "TKM",
+    "numeric": "795",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "Remark: By presidential decree No. 1146, 1993-01-21, the Roman alphabet is officially used for the Turkmen language.",
+    "remark3": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "languages": [
+      {
+        "alpha2": "tk",
+        "alpha3": "tuk"
+      }
+    ]
+  },
+  {
+    "alpha2": "TN",
+    "shortName": "TUNISIA",
+    "shortNameLowerCase": "Tunisia",
+    "fullName": "the Republic of Tunisia",
+    "alpha3": "TUN",
+    "numeric": "788",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2": "TO",
+    "shortName": "TONGA",
+    "shortNameLowerCase": "Tonga",
+    "fullName": "the Kingdom of Tonga",
+    "alpha3": "TON",
+    "numeric": "776",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Tongatapu (principal island)",
+    "status": "Officially assigned",
+    "remark1": "Principal island: Tongatapu.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "to",
+        "alpha3": "ton"
+      }
+    ]
+  },
+  {
+    "alpha2": "TR",
+    "shortName": "TURKEY",
+    "shortNameLowerCase": "Turkey",
+    "fullName": "the Republic of Turkey",
+    "alpha3": "TUR",
+    "numeric": "792",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "languages": [
+      {
+        "alpha2": "tr",
+        "alpha3": "tur"
+      }
+    ]
+  },
+  {
+    "alpha2": "TT",
+    "shortName": "TRINIDAD AND TOBAGO",
+    "shortNameLowerCase": "Trinidad and Tobago",
+    "fullName": "the Republic of Trinidad and Tobago",
+    "alpha3": "TTO",
+    "numeric": "780",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Tobago *",
+    "status": "Officially assigned",
+    "remark1": "Tobago * is the second significant part of composite country name.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "TV",
+    "shortName": "TUVALU",
+    "shortNameLowerCase": "Tuvalu",
+    "fullName": "",
+    "alpha3": "TUV",
+    "numeric": "798",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Funafuti (principal atoll)",
+    "status": "Officially assigned",
+    "remark1": "Principal atoll: Funafuti.",
+    "remark3": "Gilbert and Ellice Islands (GE, GEL, --) divided into: Gilbert Islands incorporated into Kiribati (KI, KIR, 296), and Ellice Islands incorporated into Tuvalu (TV, TUV, 798). See code element GEHH.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "-",
+        "alpha3": "tvl"
+      }
+    ]
+  },
+  {
+    "alpha2": "TW",
+    "shortName": "TAIWAN, PROVINCE OF CHINA",
+    "shortNameLowerCase": "Taiwan (Province of China)",
+    "fullName": "",
+    "alpha3": "TWN",
+    "numeric": "158",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Penghu (Pescadores) Islands",
+    "status": "Officially assigned",
+    "remark1": "Includes: Penghu (Pescadores) Islands.",
+    "languages": [
+      {
+        "alpha2": "zh",
+        "alpha3": "zho"
+      }
+    ]
+  },
+  {
+    "alpha2": "TZ",
+    "shortName": "TANZANIA, UNITED REPUBLIC OF",
+    "shortNameLowerCase": "Tanzania, the United Republic of",
+    "fullName": "the United Republic of Tanzania",
+    "alpha3": "TZA",
+    "numeric": "834",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "Often referred to as Tanzania.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "sw",
+        "alpha3": "swa"
+      }
+    ]
+  },
+  {
+    "alpha2": "UA",
+    "shortName": "UKRAINE",
+    "shortNameLowerCase": "Ukraine",
+    "fullName": "",
+    "alpha3": "UKR",
+    "numeric": "804",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark3": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "languages": [
+      {
+        "alpha2": "uk",
+        "alpha3": "ukr"
+      }
+    ]
+  },
+  {
+    "alpha2": "UG",
+    "shortName": "UGANDA",
+    "shortNameLowerCase": "Uganda",
+    "fullName": "the Republic of Uganda",
+    "alpha3": "UGA",
+    "numeric": "800",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "UM",
+    "shortName": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "shortNameLowerCase": "United States Minor Outlying Islands (the)",
+    "fullName": "",
+    "alpha3": "UMI",
+    "numeric": "581",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Navassa Island , Palmyra Atoll, Wake Island",
+    "status": "Officially assigned",
+    "remark1": "Comprises: In the Pacific Ocean: Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll, Wake Island In the Caribbean Sea: Navassa Island.",
+    "remark2": "Remark: Included also as a subdivision of the United States (US-UM).",
+    "remark3": "Johnston Island (JT, JTN, 396) is now incorporated in the entry for US Minor Outlying Islands. See also code element JTUM. Midway Islands (MI, MID, 488) are now incorporated in the entry for US Minor Outlying Islands. See also code element MIUM. United States Miscellaneous Pacific Islands (PU, PUS, 849) are now incorporated in the entry for US Minor Outlying Islands. See also code element PUUM. Wake Island (WK, WAK, 872) is now incorporated in the entry for US Minor Outlying Islands (UM, UMI, 581). See also code element WKUM.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "US",
+    "shortName": "UNITED STATES OF AMERICA",
+    "shortNameLowerCase": "United States of America (the)",
+    "fullName": "the United States of America",
+    "alpha3": "USA",
+    "numeric": "840",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "UY",
+    "shortName": "URUGUAY",
+    "shortNameLowerCase": "Uruguay",
+    "fullName": "the Eastern Republic of Uruguay",
+    "alpha3": "URY",
+    "numeric": "858",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "UZ",
+    "shortName": "UZBEKISTAN",
+    "shortNameLowerCase": "Uzbekistan",
+    "fullName": "the Republic of Uzbekistan",
+    "alpha3": "UZB",
+    "numeric": "860",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "In May 1995 a new Roman alphabet was officially decreed for the Uzbek language",
+    "remark3": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "languages": [
+      {
+        "alpha2": "uz",
+        "alpha3": "uzb"
+      }
+    ]
+  },
+  {
+    "alpha2": "VA",
+    "shortName": "HOLY SEE",
+    "shortNameLowerCase": "Holy See (the)",
+    "fullName": "",
+    "alpha3": "VAT",
+    "numeric": "336",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "Previous entry: VATICAN CITY STATE (HOLY SEE).",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "it",
+        "alpha3": "ita"
+      },
+      {
+        "alpha2": "la",
+        "alpha3": "lat"
+      }
+    ]
+  },
+  {
+    "alpha2": "VC",
+    "shortName": "SAINT VINCENT AND THE GRENADINES",
+    "shortNameLowerCase": "Saint Vincent and the Grenadines",
+    "fullName": "",
+    "alpha3": "VCT",
+    "numeric": "670",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Bequia (principal island), Northern Grenadine Islands, Saint Vincent Island",
+    "status": "Officially assigned",
+    "remark1": "Comprises: Northern Grenadine Islands (Principal island: Bequia), Saint Vincent Island.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "VE",
+    "shortName": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+    "shortNameLowerCase": "Venezuela (Bolivarian Republic of)",
+    "fullName": "the Bolivarian Republic of Venezuela",
+    "alpha3": "VEN",
+    "numeric": "862",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Bird Island",
+    "status": "Officially assigned",
+    "remark1": "Includes: Bird Island.",
+    "languages": [
+      {
+        "alpha2": "es",
+        "alpha3": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2": "VG",
+    "shortName": "VIRGIN ISLANDS (BRITISH)",
+    "shortNameLowerCase": "Virgin Islands (British)",
+    "fullName": "British Virgin Islands (the)",
+    "alpha3": "VGB",
+    "numeric": "092",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Anegada, Jost Van Dyke, Tortola, Virgin Gorda",
+    "status": "Officially assigned",
+    "remark1": "Principal islands: Anegada, Jost Van Dyke, Tortola, Virgin Gorda.",
+    "remark2": "No subdivisions relevant for this standard.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "VI",
+    "shortName": "VIRGIN ISLANDS (U.S.)",
+    "shortNameLowerCase": "Virgin Islands (U.S.)",
+    "fullName": "the Virgin Islands of the United States",
+    "alpha3": "VIR",
+    "numeric": "850",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Saint Croix, Saint John, Saint Thomas",
+    "status": "Officially assigned",
+    "remark1": "Principal islands: Saint Croix, Saint John, Saint Thomas.",
+    "remark2": "No subdivisions relevant for this standard. Included also as a subdivision of the United States (US-VI).",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "VN",
+    "shortName": "VIET NAM",
+    "shortNameLowerCase": "Viet Nam",
+    "fullName": "the Socialist Republic of Viet Nam",
+    "alpha3": "VNM",
+    "numeric": "704",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark1": "",
+    "remark3": "The former Democratic Republic of Viet-Nam (VD, VDR, --) is  now part of the entry for Viet Nam (VN, VNM, 704). See also the code element VDVN.",
+    "languages": [
+      {
+        "alpha2": "vi",
+        "alpha3": "vie"
+      }
+    ]
+  },
+  {
+    "alpha2": "VU",
+    "shortName": "VANUATU",
+    "shortNameLowerCase": "Vanuatu",
+    "fullName": "the Republic of Vanuatu",
+    "alpha3": "VUT",
+    "numeric": "548",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Efate, Santo",
+    "status": "Officially assigned",
+    "remark1": "Principal islands: Efate, Santo.",
+    "remark3": "Name changed from New Hebrides (NH, NHB, --) to Vanuatu. See also code element NHVU.",
+    "languages": [
+      {
+        "alpha2": "bi",
+        "alpha3": "bis"
+      },
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "WF",
+    "shortName": "WALLIS AND FUTUNA",
+    "shortNameLowerCase": "Wallis and Futuna",
+    "fullName": "Wallis and Futuna Islands",
+    "alpha3": "WLF",
+    "numeric": "876",
+    "remarks": "",
+    "independent": "No",
+    "territory": "Futuna, Hoorn Islands, Uvea, Wallis Islands",
+    "status": "Officially assigned",
+    "remark1": "Comprises: Hoorn Islands (Principal island: Futuna), Wallis Islands (Principal island: Uvea).",
+    "remark2": "Included also as a subdivision of France (FR-WF).",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "WS",
+    "shortName": "SAMOA",
+    "shortNameLowerCase": "Samoa",
+    "fullName": "the Independent State of Samoa",
+    "alpha3": "WSM",
+    "numeric": "882",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Savai'i, Upolu",
+    "status": "Officially assigned",
+    "remark1": "Principal islands: Savai'i, Upolu.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "sm",
+        "alpha3": "smo"
+      }
+    ]
+  },
+  {
+    "alpha2": "YE",
+    "shortName": "YEMEN",
+    "shortNameLowerCase": "Yemen",
+    "fullName": "the  Republic of Yemen",
+    "alpha3": "YEM",
+    "numeric": "887",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Socotra Island",
+    "status": "Officially assigned",
+    "remark1": "Includes: Socotra Island.",
+    "remark3": "The Democratic Yemen (YD, YMD, 720) was incorporated into the entry Yemen (YE, YEM, 887). See also the code element YDYE.",
+    "languages": [
+      {
+        "alpha2": "ar",
+        "alpha3": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2": "YT",
+    "shortName": "MAYOTTE",
+    "shortNameLowerCase": "Mayotte",
+    "fullName": "",
+    "alpha3": "MYT",
+    "numeric": "175",
+    "remarks": "",
+    "independent": "No",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark2": "No subdivisions relevant for this standard. Included also as a subdivision of France (FR-YT).",
+    "languages": [
+      {
+        "alpha2": "fr",
+        "alpha3": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2": "ZA",
+    "shortName": "SOUTH AFRICA",
+    "shortNameLowerCase": "South Africa",
+    "fullName": "the Republic of South Africa",
+    "alpha3": "ZAF",
+    "numeric": "710",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "Marion Island, Prince Edward Island",
+    "status": "Officially assigned",
+    "remark1": "Includes: Marion Island, Prince Edward Island.",
+    "languages": [
+      {
+        "alpha2": "af",
+        "alpha3": "afr"
+      },
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      },
+      {
+        "alpha2": "nr",
+        "alpha3": "nbl"
+      },
+      {
+        "alpha2": "-",
+        "alpha3": "nso"
+      },
+      {
+        "alpha2": "st",
+        "alpha3": "sot"
+      },
+      {
+        "alpha2": "ss",
+        "alpha3": "ssw"
+      },
+      {
+        "alpha2": "tn",
+        "alpha3": "tsn"
+      },
+      {
+        "alpha2": "ts",
+        "alpha3": "tso"
+      },
+      {
+        "alpha2": "ve",
+        "alpha3": "ven"
+      },
+      {
+        "alpha2": "xh",
+        "alpha3": "xho"
+      },
+      {
+        "alpha2": "zu",
+        "alpha3": "zul"
+      }
+    ]
+  },
+  {
+    "alpha2": "ZM",
+    "shortName": "ZAMBIA",
+    "shortNameLowerCase": "Zambia",
+    "fullName": "the Republic of Zambia",
+    "alpha3": "ZMB",
+    "numeric": "894",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2": "ZW",
+    "shortName": "ZIMBABWE",
+    "shortNameLowerCase": "Zimbabwe",
+    "fullName": "the Republic of Zimbabwe",
+    "alpha3": "ZWE",
+    "numeric": "716",
+    "remarks": "",
+    "independent": "Yes",
+    "territory": "",
+    "status": "Officially assigned",
+    "remark3": "Name changed from Southern Rhodesia (RH, RHO, --) to Zimbabwe (ZW, ZWE, 716). See also code element RHZW.",
+    "languages": [
+      {
+        "alpha2": "en",
+        "alpha3": "eng"
+      }
+    ]
+  }
+]
